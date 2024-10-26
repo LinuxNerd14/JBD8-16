@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "6502")(type "KiCad")(uri "/home/linuxnerd/.local/share/kicad/8.0/symbols/65xx-library.kicad_sym")(options "")(descr ""))
+)
