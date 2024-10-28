@@ -8,3 +8,6 @@ This is by far not a finished project as planned features include:
 3. 2 NES contoller ports
 4. SD Card??  (Many compicated issues with this one)
 5. Better display or VGA output
+
+
+Thank you [Brian Dean](https://github.com/NonzeroCornet) for your contributions to the software.
