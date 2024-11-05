@@ -1,4 +1,5 @@
 # The JBD8-16
+![Current Design](Schematic.svg)
 A computer that was once based on the BE6502 by the revered [Ben Eater](https://eater.net/).
 This new design has 16 banks of 32K storage totaling in 512K, 32 I/O addresses, and a hardware based random number generator.
 
