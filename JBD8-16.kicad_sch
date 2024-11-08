@@ -5,7 +5,7 @@
 	(uuid "f67810eb-7be9-420b-aa67-1ebcf9093e9f")
 	(paper "A0")
 	(title_block
-		(title "BE6502+")
+		(title "JBD8-8")
 		(date "2024-10-17")
 		(rev "0")
 	)
@@ -15133,6 +15133,12 @@
 		(uuid "5caa89d4-f523-41e3-bb40-aa69431517c8")
 	)
 	(junction
+		(at 359.41 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d8f513a-b700-47cb-9691-d5a6a60e5469")
+	)
+	(junction
 		(at 528.32 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15641,6 +15647,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cef9d29b-8784-443b-a7e9-c4854f196048")
+	)
+	(junction
+		(at 316.23 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0382d5c-883c-4ab9-92c0-eb65b58adfab")
 	)
 	(junction
 		(at 364.49 467.36)
@@ -18206,6 +18218,15 @@
 		(uuid "8daa9165-e651-4933-8f2b-c0472d581841")
 	)
 	(bus_entry
+		(at 382.27 274.32)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ed536fd-ce5b-4c4b-9ba5-757be925a97f")
+	)
+	(bus_entry
 		(at 208.28 38.1)
 		(size 2.54 -2.54)
 		(stroke
@@ -19124,6 +19145,15 @@
 		(uuid "cbf687ed-cfa1-4c14-82d2-2fbe8fd986bb")
 	)
 	(bus_entry
+		(at 382.27 270.51)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd833acd-9a40-43a7-8a1a-fa880f06d781")
+	)
+	(bus_entry
 		(at 274.32 317.5)
 		(size -2.54 -2.54)
 		(stroke
@@ -19482,6 +19512,15 @@
 			(type default)
 		)
 		(uuid "df051e5a-f79a-4258-9df9-fe0cbf37ff02")
+	)
+	(bus_entry
+		(at 382.27 279.4)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df0b8a37-ac06-401e-9d76-bf934a75f5f5")
 	)
 	(bus_entry
 		(at 259.08 68.58)
@@ -20676,6 +20715,16 @@
 			(type default)
 		)
 		(uuid "0afda63b-0646-4a6e-8bad-e0d9ae0c15b5")
+	)
+	(wire
+		(pts
+			(xy 384.81 281.94) (xy 384.81 295.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b4023cc-b663-4fd2-be15-a78780e2ffe9")
 	)
 	(wire
 		(pts
@@ -22506,6 +22555,16 @@
 			(type default)
 		)
 		(uuid "2a5fe696-b622-4907-846c-51c572f1eef9")
+	)
+	(bus
+		(pts
+			(xy 382.27 270.51) (xy 382.27 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a9c0f1e-e718-42fe-afc9-3bca7be3ceea")
 	)
 	(wire
 		(pts
@@ -25769,6 +25828,16 @@
 	)
 	(wire
 		(pts
+			(xy 367.03 276.86) (xy 379.73 276.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "637493c7-b54d-46a5-b119-86efa1947883")
+	)
+	(wire
+		(pts
 			(xy 381 71.12) (xy 431.8 71.12)
 		)
 		(stroke
@@ -28287,6 +28356,16 @@
 		)
 		(uuid "92f3dcc6-5f7c-43fc-a427-3e12ef3471e0")
 	)
+	(wire
+		(pts
+			(xy 367.03 273.05) (xy 379.73 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92fe2ea1-864c-42e2-a882-dcc3c5671651")
+	)
 	(bus
 		(pts
 			(xy 411.48 38.1) (xy 411.48 40.64)
@@ -28486,6 +28565,16 @@
 			(type default)
 		)
 		(uuid "977b69d2-a4a5-4a20-9529-856161ce3b51")
+	)
+	(wire
+		(pts
+			(xy 353.06 273.05) (xy 359.41 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "977cfc42-005f-4711-89c8-4c0ed2947337")
 	)
 	(wire
 		(pts
@@ -28856,6 +28945,16 @@
 			(type default)
 		)
 		(uuid "9e0da975-3a40-4c7f-b0db-85e3ccd7e273")
+	)
+	(bus
+		(pts
+			(xy 382.27 179.07) (xy 382.27 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e2dee82-5e69-4d75-9a7c-614ae0177549")
 	)
 	(wire
 		(pts
@@ -29319,6 +29418,16 @@
 	)
 	(bus
 		(pts
+			(xy 382.27 274.32) (xy 382.27 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3bdaa14-5a34-45dd-a55a-0770e50b98f3")
+	)
+	(bus
+		(pts
 			(xy 401.32 48.26) (xy 401.32 50.8)
 		)
 		(stroke
@@ -29586,6 +29695,16 @@
 			(type default)
 		)
 		(uuid "a887660d-1edd-4faf-87f3-fce64f41e19a")
+	)
+	(wire
+		(pts
+			(xy 384.81 295.91) (xy 415.29 295.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8a1c3d5-93d9-4c16-be4e-838033e0b5b7")
 	)
 	(wire
 		(pts
@@ -33549,6 +33668,16 @@
 	)
 	(wire
 		(pts
+			(xy 359.41 273.05) (xy 359.41 276.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e52f9c5d-2797-4ad0-9303-6c743191a3bf")
+	)
+	(wire
+		(pts
 			(xy 561.34 228.6) (xy 506.73 228.6)
 		)
 		(stroke
@@ -34006,6 +34135,16 @@
 			(type default)
 		)
 		(uuid "eda5f0d2-5a26-4fd3-81c5-7bf5c71f0a97")
+	)
+	(bus
+		(pts
+			(xy 316.23 179.07) (xy 382.27 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ede08c4f-6c5a-4c5a-8817-d93c243e1f21")
 	)
 	(bus
 		(pts
@@ -36931,6 +37070,16 @@
 		)
 		(uuid "1980f06e-ddcd-4dbb-99fc-6680dcaba91e")
 	)
+	(label "SHM"
+		(at 375.92 276.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19830abf-4f35-4f9e-82a1-c32238bf37aa")
+	)
 	(label "H5"
 		(at 433.07 401.32 0)
 		(fields_autoplaced yes)
@@ -37557,6 +37706,16 @@
 			(justify left bottom)
 		)
 		(uuid "318041d0-4411-41ae-b44e-8c0ed4212d27")
+	)
+	(label "OS"
+		(at 377.19 273.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3218e51d-8891-4555-a40f-e2fbacffce0c")
 	)
 	(label "A8"
 		(at 464.82 50.8 0)
@@ -41017,6 +41176,16 @@
 		)
 		(uuid "d6c431ed-006b-4a97-a15f-c28308920ee3")
 	)
+	(label "ROM"
+		(at 384.81 281.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7f6bc2f-20a2-4f1b-85e9-eb788cfc69c5")
+	)
 	(label "D1"
 		(at 440.69 252.73 0)
 		(fields_autoplaced yes)
@@ -41538,6 +41707,7 @@
 	)
 	(label "BANKMEM"
 		(at 304.8 113.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43853,6 +44023,91 @@
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Filled")
+		(at 363.22 273.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26575adf-2040-4b37-9b18-df4da65ee7ef")
+		(property "Reference" "D7"
+			(at 363.22 272.034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Filled"
+			(at 363.22 274.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 363.22 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, filled shape"
+			(at 363.22 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 363.22 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 363.22 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "da542fdb-b97c-41f0-a682-312a9c6dde3d")
+		)
+		(pin "1"
+			(uuid "8295681d-ad70-4db0-a26d-b9401f3588b0")
+		)
+		(instances
+			(project ""
+				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -55233,6 +55488,91 @@
 			(project "BE6502+"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
 					(reference "J?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Filled")
+		(at 363.22 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe4a83e3-28c1-4e91-9e1e-9720dbdb30a8")
+		(property "Reference" "D8"
+			(at 362.966 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Filled"
+			(at 362.966 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 363.22 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, filled shape"
+			(at 363.22 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 363.22 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 363.22 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "15f9e43a-cd09-4429-a4bb-14d6c9b31215")
+		)
+		(pin "1"
+			(uuid "eb2c5aae-567e-4906-a3b1-5ce1c5c5950b")
+		)
+		(instances
+			(project "JBD8-16"
+				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
+					(reference "D8")
 					(unit 1)
 				)
 			)
