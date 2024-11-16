@@ -1,7 +1,7 @@
 # The JBD8-16
 ![Current Design](Schematic.svg)
 A computer that was once based on the BE6502 by the revered [Ben Eater](https://eater.net/).
-This new design has 16 banks of 32K SRAM totaling in 512K, 32 I/O addresses, and a hardware based random number generator.
+This new design can have up to 16 banks of 32K SRAM, 62 I/O addresses, and a hardware based random number generator.
 
 This is by far not a finished project as planned features include:
 1. PS2 keyboard port
