@@ -12574,12 +12574,6 @@
 		(uuid "0263ec8b-c221-4046-8f66-72c6601afe0a")
 	)
 	(junction
-		(at 416.56 429.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "026c3100-412a-4cda-be95-79cfe8ddbfc7")
-	)
-	(junction
 		(at 234.95 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12628,22 +12622,34 @@
 		(uuid "0a1fab34-ae0d-448e-84e4-af34b2f91f69")
 	)
 	(junction
+		(at 375.92 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a67a55b-aba8-496f-81c8-7bd9b4ac74f9")
+	)
+	(junction
 		(at 254 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "102c3a74-50fd-4b42-a4be-e95db6e39a7f")
 	)
 	(junction
-		(at 365.76 353.06)
+		(at 335.28 353.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "11c07700-c9a8-4fc7-96dd-1caae1378b2e")
+		(uuid "14ea21d6-40a3-4b3f-bacf-d4a24fb94cd6")
 	)
 	(junction
 		(at 219.71 350.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14fe4402-d014-4340-bb10-17aa336a90bc")
+	)
+	(junction
+		(at 355.6 353.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16180575-777a-4daa-b6a7-bcadfa1ed5dd")
 	)
 	(junction
 		(at 264.16 424.18)
@@ -12656,12 +12662,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1e4dd117-823c-4869-87da-2efc1313086e")
-	)
-	(junction
-		(at 416.56 449.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f108ec8-2484-4470-8028-0317effc5933")
 	)
 	(junction
 		(at 279.4 71.12)
@@ -12688,12 +12688,6 @@
 		(uuid "23528b2f-1f99-4e5d-be61-b464852f4697")
 	)
 	(junction
-		(at 303.53 424.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "27aa8bec-ddeb-405a-ac79-2cc65c2cbde2")
-	)
-	(junction
 		(at 21.59 591.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12704,12 +12698,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c6dc026-e972-4c77-807a-3673413ae7b4")
-	)
-	(junction
-		(at 386.08 353.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31644b27-6038-40c1-93b2-79bfd64ef071")
 	)
 	(junction
 		(at 506.73 228.6)
@@ -12736,6 +12724,12 @@
 		(uuid "34421c6d-b5c7-4a9f-b6e3-e962fba08b03")
 	)
 	(junction
+		(at 386.08 353.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35132088-035b-4d81-a084-57b9c8d12aa4")
+	)
+	(junction
 		(at 393.7 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12746,6 +12740,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "366f20f0-bd05-4a18-8a3e-2941f61b8e83")
+	)
+	(junction
+		(at 396.24 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3690610d-2444-4ebb-a507-3af445cfc62e")
+	)
+	(junction
+		(at 406.4 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37d9e24c-ec7b-4c6f-9eff-3f0f38a37fa4")
 	)
 	(junction
 		(at 381 13.97)
@@ -12766,6 +12772,18 @@
 		(uuid "3c6365c5-3ecf-44da-bdb2-3acbe14e537e")
 	)
 	(junction
+		(at 345.44 353.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d4e8190-38ee-4488-b21d-3af9432edf10")
+	)
+	(junction
+		(at 386.08 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d726c0e-b612-4b4f-9d8c-5bdf9a03e5d0")
+	)
+	(junction
 		(at 111.76 350.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12776,12 +12794,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f5fbd8f-ba8b-4b0c-9333-dfb679729110")
-	)
-	(junction
-		(at 391.16 419.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "429f9ac0-a8ce-4077-a032-b06044a06c1b")
 	)
 	(junction
 		(at 325.12 353.06)
@@ -12874,18 +12886,6 @@
 		(uuid "54f487b3-4627-46f4-a96d-50e70feeb3f4")
 	)
 	(junction
-		(at 144.78 438.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "57943078-50a2-4186-9c6b-a17c07ad1da0")
-	)
-	(junction
-		(at 391.16 449.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "588b2fdb-627c-482d-b91d-ad7efe169bfb")
-	)
-	(junction
 		(at 455.93 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12896,12 +12896,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c055701-81ee-416d-a7ae-834288d03fc8")
-	)
-	(junction
-		(at 416.56 408.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c87367b-9829-4629-ac17-bcef98d8309e")
 	)
 	(junction
 		(at 259.08 80.01)
@@ -12928,6 +12922,12 @@
 		(uuid "5e385372-154c-4374-9082-fa323043e690")
 	)
 	(junction
+		(at 365.76 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e3b4806-5be1-471b-9fd9-4ae3b126e612")
+	)
+	(junction
 		(at 228.6 13.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12946,18 +12946,6 @@
 		(uuid "6227c723-fe9c-4005-accf-4e37b0d20af0")
 	)
 	(junction
-		(at 375.92 353.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6829de1e-b3ce-4ed6-a13d-44295be4809b")
-	)
-	(junction
-		(at 406.4 353.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "69419621-76b5-435f-92e6-8410c00110b4")
-	)
-	(junction
 		(at 21.59 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12974,6 +12962,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c6a8ce6-9849-421a-bb05-40b321534229")
+	)
+	(junction
+		(at 416.56 398.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6cbb3aa9-c755-4280-8f43-4d328da96ada")
 	)
 	(junction
 		(at 228.6 71.12)
@@ -13036,6 +13030,12 @@
 		(uuid "77e09368-2d81-4569-8a6a-b7698571d3fa")
 	)
 	(junction
+		(at 300.99 439.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "782d0671-08ed-44ca-96c4-395fb2e04914")
+	)
+	(junction
 		(at 241.3 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13046,12 +13046,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a4c0b5b-a577-4ae3-820f-9db17891683c")
-	)
-	(junction
-		(at 391.16 408.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7a4c275f-ed03-4b70-8990-ab48bfbfc8cf")
 	)
 	(junction
 		(at 247.65 217.17)
@@ -13076,6 +13070,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e41303e-adc8-4f1a-85bf-acf63b54fe64")
+	)
+	(junction
+		(at 416.56 419.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "810436cd-2c9e-4f7c-a015-f2a81402a127")
+	)
+	(junction
+		(at 416.56 429.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81ba917a-ea86-4cdf-a671-9d8542f11eb9")
 	)
 	(junction
 		(at 259.08 429.26)
@@ -13120,16 +13126,16 @@
 		(uuid "8ddb142c-b4fe-491f-b327-3c79a79c23a3")
 	)
 	(junction
+		(at 335.28 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ec7fcd6-76b5-4cdf-964b-3b49272f1647")
+	)
+	(junction
 		(at 214.63 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f7ec5d1-8f77-4c1a-a22c-f280e840e9be")
-	)
-	(junction
-		(at 391.16 384.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f99c0d2-fc37-49ae-9493-92168525beef")
 	)
 	(junction
 		(at 463.55 223.52)
@@ -13138,46 +13144,28 @@
 		(uuid "9010c7f1-52f4-45a1-bd91-e56f66ee62e9")
 	)
 	(junction
+		(at 355.6 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "901c20ba-e28b-48ba-8867-b8fbc2f4d923")
+	)
+	(junction
 		(at 425.45 241.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9021a7c3-2004-4415-a3cb-c45756418bf9")
 	)
 	(junction
-		(at 396.24 353.06)
+		(at 391.16 419.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "929cee7d-00ab-4879-b003-c545f80f3f1d")
-	)
-	(junction
-		(at 391.16 429.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "93dbd1e4-68f9-423e-ba34-151c161940d7")
+		(uuid "92977454-95b0-41c6-b9d1-37211c4329ee")
 	)
 	(junction
 		(at 30.48 350.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93dec5dd-5be0-403c-b5f8-48f53d9dfa36")
-	)
-	(junction
-		(at 261.62 407.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "968de3e9-c686-4812-8f58-d892cbf1aa13")
-	)
-	(junction
-		(at 375.92 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "97a8b069-b61e-42e5-a6e7-326be1766bd2")
-	)
-	(junction
-		(at 355.6 353.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9836617b-6d9c-4ea2-b853-fc8b6eb46596")
 	)
 	(junction
 		(at 236.22 389.89)
@@ -13216,16 +13204,16 @@
 		(uuid "9ccbe5bf-5d3d-4421-925a-a64ea4c5eebf")
 	)
 	(junction
+		(at 391.16 439.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d4ad4a3-fe10-4020-92a6-0dd49d32a358")
+	)
+	(junction
 		(at 237.49 424.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a033dde1-552f-4291-b4cd-6350fd49e440")
-	)
-	(junction
-		(at 365.76 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a03c9d2b-935a-4672-bf85-8248fa7d2ba4")
 	)
 	(junction
 		(at 160.02 394.97)
@@ -13234,22 +13222,28 @@
 		(uuid "a0dc2fcc-c256-4d95-ad18-beb611e34f79")
 	)
 	(junction
-		(at 355.6 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4284592-aea5-4079-af76-698f2e833878")
-	)
-	(junction
 		(at 62.23 354.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a63caaed-d0d4-48e9-8532-8083c78a492a")
 	)
 	(junction
+		(at 144.78 438.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6c4bb9c-9609-4992-845e-234e163205c6")
+	)
+	(junction
 		(at 214.63 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6efcc4c-f128-4f30-bb9b-5c98a0e9d215")
+	)
+	(junction
+		(at 303.53 424.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a73951dc-16cc-4515-b33d-4d576b025108")
 	)
 	(junction
 		(at 537.21 143.51)
@@ -13262,12 +13256,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8a77762-b34a-4bf3-9dc0-a3cbed57509d")
-	)
-	(junction
-		(at 335.28 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9147fd3-2c08-4466-bb5f-df0bbf94da7e")
 	)
 	(junction
 		(at 405.13 227.33)
@@ -13330,6 +13318,12 @@
 		(uuid "b36cb7cd-6447-4583-bf69-3c7b7b7c6814")
 	)
 	(junction
+		(at 416.56 388.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3e1621a-4e09-484a-9be9-6ba46075d48a")
+	)
+	(junction
 		(at 36.83 591.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13340,12 +13334,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b80bbf41-0e2f-47cf-8a44-ff37d8bb3a52")
-	)
-	(junction
-		(at 416.56 384.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "badc01a5-3cc8-4fdb-95e1-10d4cf1a75f5")
 	)
 	(junction
 		(at 561.34 228.6)
@@ -13360,34 +13348,40 @@
 		(uuid "be8a4fdc-767a-402c-a609-8e6e139b8d76")
 	)
 	(junction
+		(at 416.56 439.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf0b1aa8-85fe-4a21-8f36-dd6733c4c4bc")
+	)
+	(junction
 		(at 219.71 354.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf82933f-36c7-44ee-ba2f-17b0fecc6304")
 	)
 	(junction
-		(at 300.99 439.42)
+		(at 391.16 429.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c185ba64-7102-4264-bec0-a473fae9301a")
+		(uuid "c2f3dc18-c2d3-433f-a585-058316e80b41")
 	)
 	(junction
-		(at 391.16 439.42)
+		(at 375.92 353.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c271faf7-7ad7-42f9-bfae-e6aed205f27c")
+		(uuid "c3664540-3d93-4a94-8e3b-62549d5fe67e")
+	)
+	(junction
+		(at 391.16 388.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4f7b4cb-92a4-447c-b2fe-824d66ab2acd")
 	)
 	(junction
 		(at 359.41 293.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c688f507-f2f8-434c-8e95-0ddd5ae570ae")
-	)
-	(junction
-		(at 406.4 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6a7c586-7f5e-4f9a-9952-c5e10ac3685d")
 	)
 	(junction
 		(at 248.92 87.63)
@@ -13402,6 +13396,12 @@
 		(uuid "ca41ffe8-fc14-42dd-9512-9a729c072eb2")
 	)
 	(junction
+		(at 391.16 408.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb5b3ab0-d6f6-43cb-b8b6-56742ceac925")
+	)
+	(junction
 		(at 143.51 354.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13414,6 +13414,12 @@
 		(uuid "d036a2a2-dd0a-43ce-834b-2b83c916e70f")
 	)
 	(junction
+		(at 416.56 408.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0c8fb54-2f90-4ff7-9214-16b415e39cf7")
+	)
+	(junction
 		(at 444.5 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13424,6 +13430,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3fa55d0-48c2-44ac-bce9-060b3dc8e249")
+	)
+	(junction
+		(at 345.44 378.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4ef26c7-aa5f-431b-862e-5f57415869b9")
 	)
 	(junction
 		(at 330.2 71.12)
@@ -13456,28 +13468,22 @@
 		(uuid "dbe467e6-ecdb-49a7-8621-026a171c4a81")
 	)
 	(junction
-		(at 266.7 407.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dcd3ae36-ef09-4582-8fd5-81963b8a85b6")
-	)
-	(junction
 		(at 273.05 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de10964e-01c4-4a99-b954-f4c32c948256")
 	)
 	(junction
-		(at 335.28 353.06)
+		(at 365.76 353.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e2b3dfae-33f5-4092-ab44-32f162a8e42f")
+		(uuid "e0984655-fb35-428b-8d0c-039b7a8747a3")
 	)
 	(junction
-		(at 416.56 419.1)
+		(at 391.16 398.78)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e3c90125-58c8-4f51-abf4-fd5d687394fb")
+		(uuid "e45ee774-df77-460b-b88d-c4dbdae18d96")
 	)
 	(junction
 		(at 264.16 350.52)
@@ -13496,12 +13502,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e579b687-288e-4143-bccd-8adea34d717d")
-	)
-	(junction
-		(at 416.56 394.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e644aaa1-2435-442a-b9dc-899bc02483ed")
 	)
 	(junction
 		(at 355.6 19.05)
@@ -13534,10 +13534,10 @@
 		(uuid "e92aa7d2-1c3f-4ba1-9346-bc6966b01ad0")
 	)
 	(junction
-		(at 416.56 439.42)
+		(at 406.4 353.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ebcfa6b3-78af-4710-8f06-39650a55f2d3")
+		(uuid "ebc39f14-867a-48a5-847d-aadf2d5b8d38")
 	)
 	(junction
 		(at 231.14 214.63)
@@ -13550,12 +13550,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecac36d7-00cb-404f-868e-016236616a92")
-	)
-	(junction
-		(at 391.16 394.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed297d6b-2a7c-41d1-95fe-3dcfd2879de0")
 	)
 	(junction
 		(at 508 254)
@@ -13618,12 +13612,6 @@
 		(uuid "f49a7da7-7acb-479e-b279-b9d7a10c04bc")
 	)
 	(junction
-		(at 396.24 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f4accb87-5f0d-4106-8c04-329cc1c8dee0")
-	)
-	(junction
 		(at 274.32 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13648,12 +13636,6 @@
 		(uuid "f9d22442-f3de-4500-bad7-73bea92c60c5")
 	)
 	(junction
-		(at 386.08 378.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb1c6c2b-a8f3-4dce-bf83-06cb7b31a252")
-	)
-	(junction
 		(at 398.78 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13664,6 +13646,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd7f9604-4e13-4268-b1a9-4341f10f6aef")
+	)
+	(junction
+		(at 396.24 353.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd9f877a-ee46-4ad5-a93b-4c670055df42")
 	)
 	(no_connect
 		(at 581.66 210.82)
@@ -17892,16 +17880,6 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 378.46) (xy 406.4 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00bc502c-715c-470f-9d75-0f116d377a0e")
-	)
-	(wire
-		(pts
 			(xy 190.5 38.1) (xy 195.58 38.1)
 		)
 		(stroke
@@ -17939,16 +17917,6 @@
 			(type default)
 		)
 		(uuid "02129fb3-b8b1-4135-a76b-312bab877b13")
-	)
-	(wire
-		(pts
-			(xy 391.16 449.58) (xy 391.16 469.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0228b70d-3d71-463c-9ce8-682da6df4924")
 	)
 	(wire
 		(pts
@@ -17990,16 +17958,6 @@
 		)
 		(uuid "0315b17c-cdf4-434b-a76a-84dcec61c10b")
 	)
-	(wire
-		(pts
-			(xy 365.76 353.06) (xy 375.92 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0325266e-3a1f-4fe1-ba44-6f0e0ce853b7")
-	)
 	(bus
 		(pts
 			(xy 48.26 384.81) (xy 50.8 384.81)
@@ -18019,6 +17977,16 @@
 			(type default)
 		)
 		(uuid "038ff3b1-53b8-4e0d-9504-b02c11df1894")
+	)
+	(wire
+		(pts
+			(xy 375.92 378.46) (xy 386.08 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a0a144-848b-4588-8710-6d378a1c1d50")
 	)
 	(wire
 		(pts
@@ -18259,16 +18227,6 @@
 			(type default)
 		)
 		(uuid "0838786b-b81c-4100-ba97-033480ee521d")
-	)
-	(wire
-		(pts
-			(xy 406.4 378.46) (xy 455.93 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08535650-40b3-42ee-833f-229f2e941a8a")
 	)
 	(wire
 		(pts
@@ -18609,16 +18567,6 @@
 			(type default)
 		)
 		(uuid "0e05c12e-a9ba-4875-b527-ab3a9d2cd2b3")
-	)
-	(wire
-		(pts
-			(xy 355.6 353.06) (xy 365.76 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e13c8b0-3576-4bc6-a88d-70e6bf6aa2e5")
 	)
 	(wire
 		(pts
@@ -19052,16 +19000,6 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 419.1) (xy 416.56 429.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16900f1b-5199-4dd0-9f9f-3d0f3b72b9b9")
-	)
-	(wire
-		(pts
 			(xy 154.94 397.51) (xy 154.94 407.67)
 		)
 		(stroke
@@ -19172,6 +19110,16 @@
 	)
 	(wire
 		(pts
+			(xy 416.56 388.62) (xy 416.56 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18b2a3da-388f-4ab7-b639-e4a7f13950ff")
+	)
+	(wire
+		(pts
 			(xy 214.63 229.87) (xy 231.14 229.87)
 		)
 		(stroke
@@ -19229,6 +19177,16 @@
 			(type default)
 		)
 		(uuid "1991a902-9253-4716-b49a-2c9998e57290")
+	)
+	(wire
+		(pts
+			(xy 416.56 429.26) (xy 416.56 439.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d695ba-4689-43ed-b106-40775ea55c3b")
 	)
 	(bus
 		(pts
@@ -19572,16 +19530,6 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 378.46) (xy 355.6 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ed63667-1708-4f05-86d7-ef6d1e1d1b2f")
-	)
-	(wire
-		(pts
 			(xy 283.21 187.96) (xy 370.84 187.96)
 		)
 		(stroke
@@ -19589,6 +19537,16 @@
 			(type default)
 		)
 		(uuid "1ed8e27d-eac5-43bc-836d-075d14c74bd7")
+	)
+	(wire
+		(pts
+			(xy 416.56 398.78) (xy 416.56 408.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f12678d-5979-4e67-81f7-d0c5d0d89baa")
 	)
 	(wire
 		(pts
@@ -20002,13 +19960,13 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 408.94) (xy 391.16 407.67)
+			(xy 391.16 398.78) (xy 391.16 402.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "23be3d6e-e6c5-4374-8322-cf78de3d1a2a")
+		(uuid "23e7fb18-823d-4b06-844a-dfb7afd69300")
 	)
 	(wire
 		(pts
@@ -20592,7 +20550,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 392.43) (xy 261.62 407.67)
+			(xy 261.62 392.43) (xy 261.62 408.94)
 		)
 		(stroke
 			(width 0)
@@ -20612,16 +20570,6 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 439.42) (xy 416.56 449.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dc6e981-0c6b-4659-bfd6-24cfc176562b")
-	)
-	(wire
-		(pts
 			(xy 152.4 379.73) (xy 152.4 382.27)
 		)
 		(stroke
@@ -20629,16 +20577,6 @@
 			(type default)
 		)
 		(uuid "2e6ad62a-0ea3-4651-96e0-ccd9517c1549")
-	)
-	(wire
-		(pts
-			(xy 396.24 353.06) (xy 406.4 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eb3a0ad-4482-4d66-901e-ec8ae6612017")
 	)
 	(wire
 		(pts
@@ -20852,16 +20790,6 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 361.95) (xy 416.56 384.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32342775-4c0f-4fdc-ab6f-35e70f372f34")
-	)
-	(wire
-		(pts
 			(xy 127 392.43) (xy 127 407.67)
 		)
 		(stroke
@@ -20869,16 +20797,6 @@
 			(type default)
 		)
 		(uuid "3255832c-5c19-4115-8c2b-f5099d595162")
-	)
-	(wire
-		(pts
-			(xy 416.56 429.26) (xy 416.56 439.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "329c21b1-c81f-475a-8816-12eb6665bce5")
 	)
 	(wire
 		(pts
@@ -21670,16 +21588,6 @@
 		)
 		(uuid "3f0fc1ed-a1c6-4a2b-8ec6-39450cfd766c")
 	)
-	(wire
-		(pts
-			(xy 355.6 378.46) (xy 365.76 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f2431ab-b8dd-4e2f-96d4-9eb10736da58")
-	)
 	(bus
 		(pts
 			(xy 312.42 384.81) (xy 337.82 384.81)
@@ -21799,16 +21707,6 @@
 			(type default)
 		)
 		(uuid "4126feda-4483-4d6e-9b28-b2d0e726be4a")
-	)
-	(wire
-		(pts
-			(xy 416.56 394.97) (xy 416.56 408.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "413e2fa4-610a-4da7-bfc1-897968c3923c")
 	)
 	(wire
 		(pts
@@ -21979,16 +21877,6 @@
 			(type default)
 		)
 		(uuid "4399b234-a70f-464e-bf02-9c314f8f5d8c")
-	)
-	(wire
-		(pts
-			(xy 386.08 378.46) (xy 391.16 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43aeef02-8295-4ded-a235-70e84f05bd70")
 	)
 	(wire
 		(pts
@@ -22900,16 +22788,6 @@
 		)
 		(uuid "54e69142-3379-4b2a-9c30-8bf21930dfeb")
 	)
-	(wire
-		(pts
-			(xy 391.16 378.46) (xy 391.16 384.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "550143e8-a13e-40ff-8d70-cf8ad8c7d718")
-	)
 	(bus
 		(pts
 			(xy 149.86 346.71) (xy 152.4 346.71)
@@ -23069,6 +22947,16 @@
 			(type default)
 		)
 		(uuid "579f6848-87bb-4b6f-a6b2-363a9ad329bf")
+	)
+	(wire
+		(pts
+			(xy 365.76 378.46) (xy 375.92 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57bebaaf-0026-4126-9af7-f9c20e6f4090")
 	)
 	(bus
 		(pts
@@ -23352,6 +23240,16 @@
 	)
 	(wire
 		(pts
+			(xy 375.92 353.06) (xy 386.08 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d5a14bf-4501-4c7e-b6ad-2655d1fb5071")
+	)
+	(wire
+		(pts
 			(xy 199.39 17.78) (xy 203.2 17.78)
 		)
 		(stroke
@@ -23359,6 +23257,16 @@
 			(type default)
 		)
 		(uuid "5d67922e-ab3d-4739-89f7-e72a6547d80e")
+	)
+	(wire
+		(pts
+			(xy 335.28 353.06) (xy 345.44 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dc0c99e-04e1-4363-9b75-3526675e3c88")
 	)
 	(wire
 		(pts
@@ -23419,6 +23327,16 @@
 			(type default)
 		)
 		(uuid "5f63377b-fe53-484a-8ceb-9392b02ec9be")
+	)
+	(wire
+		(pts
+			(xy 416.56 408.94) (xy 416.56 419.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5faa2ce8-50e9-4f18-bda3-780c8ce2269c")
 	)
 	(bus
 		(pts
@@ -23530,16 +23448,6 @@
 		)
 		(uuid "6225267c-b220-40db-8830-f6d5544402b9")
 	)
-	(wire
-		(pts
-			(xy 391.16 439.42) (xy 391.16 449.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62977af3-6926-456d-bb53-055e9f67d1bb")
-	)
 	(bus
 		(pts
 			(xy 307.34 384.81) (xy 309.88 384.81)
@@ -23619,16 +23527,6 @@
 			(type default)
 		)
 		(uuid "640395ff-6e83-4497-8583-ad0582a354b9")
-	)
-	(wire
-		(pts
-			(xy 261.62 407.67) (xy 261.62 408.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6415e519-1878-4e8c-9255-d9e6541b038e")
 	)
 	(bus
 		(pts
@@ -24052,7 +23950,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 407.67) (xy 266.7 408.94)
+			(xy 266.7 387.35) (xy 266.7 408.94)
 		)
 		(stroke
 			(width 0)
@@ -24190,6 +24088,16 @@
 		)
 		(uuid "6c5d4513-8bf4-4792-b83b-375f34103dc7")
 	)
+	(wire
+		(pts
+			(xy 391.16 408.94) (xy 391.16 419.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d1a0b04-99ae-4ff7-92b6-72618bb07117")
+	)
 	(bus
 		(pts
 			(xy 368.3 332.74) (xy 445.77 332.74)
@@ -24309,16 +24217,6 @@
 			(type default)
 		)
 		(uuid "6f2dfa52-02da-4ae6-9871-0dd7305ca1c3")
-	)
-	(wire
-		(pts
-			(xy 416.56 449.58) (xy 416.56 469.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f5fc8c4-02ee-403c-8c28-693b0c4d8226")
 	)
 	(bus
 		(pts
@@ -24810,6 +24708,16 @@
 		)
 		(uuid "79e6e8a1-a38c-4d5f-ac2a-3a342cd13819")
 	)
+	(wire
+		(pts
+			(xy 391.16 429.26) (xy 391.16 439.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a168903-372a-4ef2-b8ad-97de01b1df1c")
+	)
 	(bus
 		(pts
 			(xy 26.67 346.71) (xy 66.04 346.71)
@@ -25220,6 +25128,16 @@
 		)
 		(uuid "82ed708d-857b-4f78-9e10-6af909a8d1a6")
 	)
+	(wire
+		(pts
+			(xy 396.24 353.06) (xy 406.4 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "832bcd94-397c-4424-81e5-995455f06d5e")
+	)
 	(bus
 		(pts
 			(xy 236.22 384.81) (xy 236.22 389.89)
@@ -25558,7 +25476,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "87d4d992-c5be-4c2f-b3e7-bb784391e372")
+		(uuid "87ffdc35-ed6e-4bc0-b7bc-46076955e6fc")
 	)
 	(bus
 		(pts
@@ -26220,6 +26138,16 @@
 		)
 		(uuid "93482bbb-1619-4d22-8683-47f00bead10d")
 	)
+	(wire
+		(pts
+			(xy 416.56 361.95) (xy 416.56 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9355484c-3d09-47c9-b66c-a725a54c3e9a")
+	)
 	(bus
 		(pts
 			(xy 26.67 402.59) (xy 43.18 402.59)
@@ -26309,6 +26237,26 @@
 			(type default)
 		)
 		(uuid "9538020d-e75e-45a3-aa8c-0d82e8f81fd2")
+	)
+	(wire
+		(pts
+			(xy 396.24 378.46) (xy 406.4 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95536148-e7b8-4d02-b951-65d2ede90a0e")
+	)
+	(wire
+		(pts
+			(xy 391.16 419.1) (xy 391.16 429.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "956f3de6-a3cf-47b6-ad02-26692177753d")
 	)
 	(bus
 		(pts
@@ -26519,6 +26467,16 @@
 			(type default)
 		)
 		(uuid "99226a2d-7a41-4839-80cd-367e82d77df8")
+	)
+	(wire
+		(pts
+			(xy 345.44 353.06) (xy 355.6 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9943fb65-265e-4d27-aaa7-3f6cba4be817")
 	)
 	(wire
 		(pts
@@ -27032,6 +26990,26 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 378.46) (xy 355.6 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13235c7-af89-412e-960b-08a99f629f02")
+	)
+	(wire
+		(pts
+			(xy 355.6 353.06) (xy 365.76 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13d0c40-1ecc-42b6-9605-4d6a0cf662de")
+	)
+	(wire
+		(pts
 			(xy 278.13 440.69) (xy 318.77 440.69)
 		)
 		(stroke
@@ -27332,16 +27310,6 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 353.06) (xy 396.24 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4e4c527-021f-49b3-b506-3aa0287389a7")
-	)
-	(wire
-		(pts
 			(xy 414.02 35.56) (xy 419.1 35.56)
 		)
 		(stroke
@@ -27349,6 +27317,16 @@
 			(type default)
 		)
 		(uuid "a4f07bf4-31b5-40f0-b946-eb58281f9770")
+	)
+	(wire
+		(pts
+			(xy 386.08 378.46) (xy 391.16 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a568d5d3-544c-4340-9c6a-48473efaf306")
 	)
 	(wire
 		(pts
@@ -27869,16 +27847,6 @@
 			(type default)
 		)
 		(uuid "ae03e0b0-748f-481a-8df9-d701bf3d8557")
-	)
-	(wire
-		(pts
-			(xy 375.92 378.46) (xy 386.08 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae6da23a-d914-476b-a7d8-6ce4db656459")
 	)
 	(bus
 		(pts
@@ -28432,16 +28400,6 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 384.81) (xy 416.56 394.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b74b9745-6f38-474f-9161-c7b023609fa4")
-	)
-	(wire
-		(pts
 			(xy 492.76 281.94) (xy 497.84 281.94)
 		)
 		(stroke
@@ -28449,16 +28407,6 @@
 			(type default)
 		)
 		(uuid "b75a1df4-2553-4be9-b83e-611320b0eac2")
-	)
-	(wire
-		(pts
-			(xy 335.28 353.06) (xy 355.6 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7b1a88a-d619-4a28-ab33-403e1c844d3f")
 	)
 	(bus
 		(pts
@@ -28902,6 +28850,16 @@
 	)
 	(wire
 		(pts
+			(xy 406.4 378.46) (xy 455.93 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bff0fe50-5aeb-4d09-bd94-bfe562e58b5b")
+	)
+	(wire
+		(pts
 			(xy 407.67 285.75) (xy 415.29 285.75)
 		)
 		(stroke
@@ -29122,7 +29080,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 429.26) (xy 391.16 439.42)
+			(xy 391.16 407.67) (xy 391.16 408.94)
 		)
 		(stroke
 			(width 0)
@@ -29259,6 +29217,16 @@
 			(type default)
 		)
 		(uuid "c5d68eac-87ed-4a6c-a734-e1ab69351620")
+	)
+	(wire
+		(pts
+			(xy 416.56 439.42) (xy 416.56 449.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5e6ab56-a33a-4342-b5f5-ee450771bf28")
 	)
 	(bus
 		(pts
@@ -29639,16 +29607,6 @@
 			(type default)
 		)
 		(uuid "cc882939-6f5f-411c-b6f9-6693d7a3772c")
-	)
-	(wire
-		(pts
-			(xy 375.92 353.06) (xy 386.08 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccbf971e-876a-4d6e-8a82-555b73e08da7")
 	)
 	(bus
 		(pts
@@ -30140,16 +30098,6 @@
 		)
 		(uuid "d3fd0e45-babb-4ccf-90ae-e856e8347921")
 	)
-	(wire
-		(pts
-			(xy 416.56 408.94) (xy 416.56 419.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d40f66fa-3a54-460b-a252-eb692df23ae0")
-	)
 	(bus
 		(pts
 			(xy 320.04 260.35) (xy 320.04 262.89)
@@ -30302,6 +30250,26 @@
 	)
 	(wire
 		(pts
+			(xy 335.28 378.46) (xy 345.44 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d694adac-cd23-4732-a6aa-51434fc3144e")
+	)
+	(wire
+		(pts
+			(xy 355.6 378.46) (xy 365.76 378.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6998b94-02c5-48d0-bf44-2ffd06fc5d8a")
+	)
+	(wire
+		(pts
 			(xy 62.23 350.52) (xy 62.23 354.33)
 		)
 		(stroke
@@ -30329,16 +30297,6 @@
 			(type default)
 		)
 		(uuid "d74ca8bd-4c8a-4bb4-a8c2-41f1c2f31b77")
-	)
-	(wire
-		(pts
-			(xy 266.7 387.35) (xy 266.7 407.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d768f7bd-8fb5-4a52-8834-2615610a999f")
 	)
 	(wire
 		(pts
@@ -30742,6 +30700,16 @@
 	)
 	(wire
 		(pts
+			(xy 391.16 388.62) (xy 391.16 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc78c0cc-e9b8-47b2-a1b1-e682a193f6fc")
+	)
+	(wire
+		(pts
 			(xy 262.89 217.17) (xy 262.89 200.66)
 		)
 		(stroke
@@ -30979,6 +30947,16 @@
 			(type default)
 		)
 		(uuid "dffc8d29-48b7-4ccf-858f-de416f4017e6")
+	)
+	(wire
+		(pts
+			(xy 416.56 419.1) (xy 416.56 429.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e03bab77-35fc-46d7-b0f2-a1e592abb96c")
 	)
 	(wire
 		(pts
@@ -31422,6 +31400,16 @@
 	)
 	(wire
 		(pts
+			(xy 365.76 353.06) (xy 375.92 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e70b62a3-21be-4c3f-b529-fcecc8c500c8")
+	)
+	(wire
+		(pts
 			(xy 476.25 170.18) (xy 496.57 170.18)
 		)
 		(stroke
@@ -31592,16 +31580,6 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 419.1) (xy 391.16 429.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e992cce5-ea56-4c59-a78a-23f17937b9b8")
-	)
-	(wire
-		(pts
 			(xy 256.54 307.34) (xy 271.78 307.34)
 		)
 		(stroke
@@ -31699,16 +31677,6 @@
 			(type default)
 		)
 		(uuid "eb775308-be8b-4fc9-a4f3-19b6ffe561bf")
-	)
-	(wire
-		(pts
-			(xy 365.76 378.46) (xy 375.92 378.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebd4eef1-d313-483e-9e58-c10716340fee")
 	)
 	(bus
 		(pts
@@ -32290,6 +32258,16 @@
 		)
 		(uuid "f4c51a47-25c8-4b71-b56a-f36c563eaa5f")
 	)
+	(wire
+		(pts
+			(xy 386.08 353.06) (xy 396.24 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4f06708-08d9-4969-8ed2-28ea4d6a70e2")
+	)
 	(bus
 		(pts
 			(xy 259.08 33.02) (xy 259.08 35.56)
@@ -32349,16 +32327,6 @@
 			(type default)
 		)
 		(uuid "f66bf9e7-e528-46f2-a78d-317665617578")
-	)
-	(wire
-		(pts
-			(xy 391.16 394.97) (xy 391.16 402.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f66d7eb2-fdd3-4a73-8c0d-82381595d52a")
 	)
 	(wire
 		(pts
@@ -32509,16 +32477,6 @@
 			(type default)
 		)
 		(uuid "f8d1b9fb-c643-4454-b77c-ca1a5c6674fe")
-	)
-	(wire
-		(pts
-			(xy 391.16 408.94) (xy 391.16 419.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8e4d39b-8148-4401-9c29-ee7b17f54d64")
 	)
 	(wire
 		(pts
@@ -32752,6 +32710,16 @@
 	)
 	(wire
 		(pts
+			(xy 391.16 378.46) (xy 391.16 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc39d1bc-701c-47b8-a589-e450fc2841e8")
+	)
+	(wire
+		(pts
 			(xy 160.02 444.5) (xy 160.02 445.77)
 		)
 		(stroke
@@ -32772,13 +32740,13 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 384.81) (xy 391.16 394.97)
+			(xy 391.16 439.42) (xy 391.16 449.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fd25bafd-82ea-40ab-9af6-57cca74f8a90")
+		(uuid "fd09382c-70e9-4297-b950-db8e1e0cd479")
 	)
 	(wire
 		(pts
@@ -38970,15 +38938,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 403.86 394.97 270)
+		(at 403.86 419.1 270)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00f35e6d-a634-43d2-8d8e-66f92df3e5c7")
-		(property "Reference" "U23"
-			(at 403.606 391.922 90)
+		(property "Reference" "U17X"
+			(at 403.606 416.052 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38986,7 +38954,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 403.606 394.462 90)
+			(at 403.606 418.592 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38994,7 +38962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 394.97 0)
+			(at 403.86 419.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39003,7 +38971,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 403.86 394.97 0)
+			(at 403.86 419.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39012,7 +38980,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 403.86 394.97 0)
+			(at 403.86 419.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39065,7 +39033,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U23")
+					(reference "U17X")
 					(unit 5)
 				)
 			)
@@ -39080,7 +39048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "040f63df-218f-494a-8767-f8f74ce5cd3e")
-		(property "Reference" "U38"
+		(property "Reference" "U20X"
 			(at 488.95 279.908 90)
 			(effects
 				(font
@@ -39170,7 +39138,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U38")
+					(reference "U20X")
 					(unit 1)
 				)
 			)
@@ -39185,7 +39153,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0680f7fc-5c05-41eb-ab25-3bdd95d08f29")
-		(property "Reference" "U30"
+		(property "Reference" "U13X"
 			(at 362.204 411.734 90)
 			(effects
 				(font
@@ -39275,7 +39243,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U30")
+					(reference "U13X")
 					(unit 4)
 				)
 			)
@@ -39438,15 +39406,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 344.17 414.02 270)
+		(at 200.66 415.29 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "10162930-ad1e-45e6-a907-b865ac077c1b")
-		(property "Reference" "U33"
-			(at 341.122 412.75 90)
+		(property "Reference" "U10X"
+			(at 197.612 414.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39455,7 +39423,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 341.122 415.29 90)
+			(at 197.612 416.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39464,7 +39432,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 344.17 414.02 0)
+			(at 200.66 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39473,7 +39441,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 344.17 414.02 0)
+			(at 200.66 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39482,7 +39450,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 344.17 414.02 0)
+			(at 200.66 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39535,7 +39503,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U33")
+					(reference "U10X")
 					(unit 4)
 				)
 			)
@@ -39796,7 +39764,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "144f21d7-b4e2-40f1-968d-fad05ddbb57d")
-		(property "Reference" "U19"
+		(property "Reference" "U18X"
 			(at 157.988 453.898 90)
 			(effects
 				(font
@@ -39886,7 +39854,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U19")
+					(reference "U18X")
 					(unit 1)
 				)
 			)
@@ -39901,7 +39869,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14cdb5a5-5701-4434-a6c5-025d267cdd64")
-		(property "Reference" "U22"
+		(property "Reference" "U16X"
 			(at 148.844 413.258 90)
 			(effects
 				(font
@@ -39991,7 +39959,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U22")
+					(reference "U16X")
 					(unit 3)
 				)
 			)
@@ -39999,15 +39967,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 403.86 419.1 270)
+		(at 403.86 408.94 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "178e627b-af08-4012-b1e5-a1fbf5fe7793")
-		(property "Reference" "U22"
-			(at 403.86 415.036 90)
+		(property "Reference" "U16X"
+			(at 403.86 404.876 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40015,7 +39983,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 403.86 417.576 90)
+			(at 403.86 407.416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40023,7 +39991,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 419.1 0)
+			(at 403.86 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40032,7 +40000,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 403.86 419.1 0)
+			(at 403.86 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40041,7 +40009,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 403.86 419.1 0)
+			(at 403.86 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40094,7 +40062,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U22")
+					(reference "U16X")
 					(unit 4)
 				)
 			)
@@ -40109,7 +40077,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19d89c4f-a84f-4fc8-b07c-c65da2efb906")
-		(property "Reference" "U22"
+		(property "Reference" "U16X"
 			(at 231.648 472.948 90)
 			(effects
 				(font
@@ -40199,7 +40167,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U22")
+					(reference "U16X")
 					(unit 1)
 				)
 			)
@@ -40214,7 +40182,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c59d5b1-5fc4-4586-8703-7d7002928e25")
-		(property "Reference" "U31"
+		(property "Reference" "U11X"
 			(at 231.902 453.136 90)
 			(effects
 				(font
@@ -40304,7 +40272,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U31")
+					(reference "U11X")
 					(unit 2)
 				)
 			)
@@ -40430,15 +40398,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS08")
-		(at 355.6 365.76 0)
+		(at 406.4 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "1f5ad137-1613-460b-b74a-484f2a64d14b")
-		(property "Reference" "U30"
-			(at 352.552 364.236 0)
+		(property "Reference" "U13X"
+			(at 403.352 364.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40447,7 +40415,7 @@
 			)
 		)
 		(property "Value" "74LS08"
-			(at 352.552 366.776 0)
+			(at 403.352 366.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40456,7 +40424,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 355.6 365.76 0)
+			(at 406.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40465,7 +40433,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS08"
-			(at 355.6 365.76 0)
+			(at 406.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40474,7 +40442,7 @@
 			)
 		)
 		(property "Description" "Quad And2"
-			(at 355.6 365.76 0)
+			(at 406.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40527,7 +40495,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U30")
+					(reference "U13X")
 					(unit 5)
 				)
 			)
@@ -40542,7 +40510,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24de4703-24d3-4745-a4c0-eb2d198bf3c2")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 211.836 433.07 90)
 			(effects
 				(font
@@ -40632,7 +40600,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 4)
 				)
 			)
@@ -40647,7 +40615,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "258bf301-b036-447f-813a-1b7956525e90")
-		(property "Reference" "U25"
+		(property "Reference" "U15X"
 			(at 30.734 597.154 90)
 			(effects
 				(font
@@ -40737,7 +40705,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U25")
+					(reference "U15X")
 					(unit 3)
 				)
 			)
@@ -40752,7 +40720,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "261c7545-f30f-43b0-b034-0596cd8507cd")
-		(property "Reference" "U25"
+		(property "Reference" "U15X"
 			(at 140.97 413.512 90)
 			(effects
 				(font
@@ -40842,7 +40810,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U25")
+					(reference "U15X")
 					(unit 4)
 				)
 			)
@@ -40850,15 +40818,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 106.68 415.29 270)
+		(at 144.78 430.53 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "28677d7f-2cba-4d29-b6b1-9926df38fa2f")
-		(property "Reference" "U22"
-			(at 103.378 413.258 90)
+		(property "Reference" "U16X"
+			(at 141.478 428.498 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40867,7 +40835,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 103.378 415.798 90)
+			(at 141.478 431.038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40876,7 +40844,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 415.29 0)
+			(at 144.78 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40885,7 +40853,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 106.68 415.29 0)
+			(at 144.78 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40894,7 +40862,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 106.68 415.29 0)
+			(at 144.78 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40947,7 +40915,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U22")
+					(reference "U16X")
 					(unit 2)
 				)
 			)
@@ -41186,7 +41154,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2fa46af8-06a2-4963-b24d-07941bdb384b")
-		(property "Reference" "U36"
+		(property "Reference" "U5X"
 			(at 350.774 411.734 90)
 			(effects
 				(font
@@ -41276,7 +41244,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U36")
+					(reference "U5X")
 					(unit 2)
 				)
 			)
@@ -41284,15 +41252,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 403.86 469.9 270)
+		(at 403.86 449.58 270)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "31fa3f0a-6809-4097-b453-5388185346c6")
-		(property "Reference" "U38"
-			(at 403.606 465.836 90)
+		(property "Reference" "U20X"
+			(at 403.606 445.516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41300,7 +41268,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 403.606 468.376 90)
+			(at 403.606 448.056 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41308,7 +41276,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 469.9 0)
+			(at 403.86 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41317,7 +41285,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 403.86 469.9 0)
+			(at 403.86 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41326,7 +41294,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 403.86 469.9 0)
+			(at 403.86 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41379,7 +41347,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U38")
+					(reference "U20X")
 					(unit 5)
 				)
 			)
@@ -41394,7 +41362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "346d0afa-fa5b-48a1-8a88-3c8038c2f866")
-		(property "Reference" "U19"
+		(property "Reference" "U18X"
 			(at 164.338 468.884 90)
 			(effects
 				(font
@@ -41484,7 +41452,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U19")
+					(reference "U18X")
 					(unit 2)
 				)
 			)
@@ -41492,15 +41460,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 406.4 365.76 0)
+		(at 345.44 365.76 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "35008eb3-2cc4-4557-902f-ae44d2a88b40")
-		(property "Reference" "U27"
-			(at 403.098 364.998 0)
+		(property "Reference" "U7X"
+			(at 342.138 364.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41509,7 +41477,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 403.098 367.538 0)
+			(at 342.138 367.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41518,7 +41486,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 406.4 365.76 0)
+			(at 345.44 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41527,7 +41495,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 406.4 365.76 0)
+			(at 345.44 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41536,7 +41504,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 406.4 365.76 0)
+			(at 345.44 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41589,7 +41557,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U27")
+					(reference "U7X")
 					(unit 4)
 				)
 			)
@@ -41597,15 +41565,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS08")
-		(at 396.24 365.76 0)
+		(at 403.86 398.78 270)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "379febf7-8b9c-49e0-b072-2af3f4b9e3fc")
-		(property "Reference" "U25"
-			(at 392.43 363.982 0)
+		(property "Reference" "U15X"
+			(at 405.638 394.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41614,7 +41582,7 @@
 			)
 		)
 		(property "Value" "74LS08"
-			(at 392.43 366.522 0)
+			(at 403.098 394.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41623,7 +41591,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 396.24 365.76 0)
+			(at 403.86 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41632,7 +41600,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS08"
-			(at 396.24 365.76 0)
+			(at 403.86 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41641,7 +41609,7 @@
 			)
 		)
 		(property "Description" "Quad And2"
-			(at 396.24 365.76 0)
+			(at 403.86 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41694,7 +41662,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U25")
+					(reference "U15X")
 					(unit 5)
 				)
 			)
@@ -41702,15 +41670,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 119.38 447.04 270)
+		(at 162.56 415.29 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "37f76fb1-9fbb-4b76-86b3-6c1d054dfa1c")
-		(property "Reference" "U20"
-			(at 116.078 445.77 90)
+		(property "Reference" "U19X"
+			(at 159.258 414.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41719,7 +41687,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 116.078 448.31 90)
+			(at 159.258 416.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41728,7 +41696,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 447.04 0)
+			(at 162.56 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41737,7 +41705,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 119.38 447.04 0)
+			(at 162.56 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41746,7 +41714,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 119.38 447.04 0)
+			(at 162.56 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41799,7 +41767,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U20")
+					(reference "U19X")
 					(unit 1)
 				)
 			)
@@ -41814,7 +41782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "39956c56-187e-4653-8ff9-da9b6f18a9b5")
-		(property "Reference" "U25"
+		(property "Reference" "U15X"
 			(at 129.794 423.418 90)
 			(effects
 				(font
@@ -41904,7 +41872,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U25")
+					(reference "U15X")
 					(unit 1)
 				)
 			)
@@ -41919,7 +41887,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40d0f995-e968-490b-b2f2-dbeac7a59784")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 264.414 447.548 90)
 			(effects
 				(font
@@ -41965,51 +41933,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5e")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c10")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33726")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a7")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d17")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe75")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341249")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7c")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532d")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee1")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08fa")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e0")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf01")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890cd")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 3)
 				)
 			)
@@ -42017,15 +41985,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 403.86 429.26 270)
+		(at 403.86 439.42 270)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "411bf245-8f99-4b8c-8408-d4bd4f7f7d04")
-		(property "Reference" "U20"
-			(at 403.606 425.196 90)
+		(property "Reference" "U19X"
+			(at 403.606 435.356 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42033,7 +42001,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 403.606 427.736 90)
+			(at 403.606 437.896 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42041,7 +42009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 429.26 0)
+			(at 403.86 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42050,7 +42018,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 403.86 429.26 0)
+			(at 403.86 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42059,7 +42027,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 403.86 429.26 0)
+			(at 403.86 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42112,7 +42080,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U20")
+					(reference "U19X")
 					(unit 5)
 				)
 			)
@@ -42120,15 +42088,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 330.2 492.76 180)
+		(at 330.2 467.36 180)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "44c9f67e-2477-44ae-ac07-5a96e1da3390")
-		(property "Reference" "U35"
-			(at 331.724 489.712 90)
+		(property "Reference" "U6X"
+			(at 331.724 464.312 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42137,7 +42105,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 329.184 489.712 90)
+			(at 329.184 464.312 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42146,7 +42114,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 330.2 492.76 0)
+			(at 330.2 467.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42155,7 +42123,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 330.2 492.76 0)
+			(at 330.2 467.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42164,7 +42132,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 330.2 492.76 0)
+			(at 330.2 467.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42217,7 +42185,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U35")
+					(reference "U6X")
 					(unit 3)
 				)
 			)
@@ -42225,15 +42193,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 200.66 415.29 270)
+		(at 344.17 414.02 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "483939d3-209f-41ea-af50-4d628b131e1f")
-		(property "Reference" "U28"
-			(at 202.438 415.544 0)
+		(property "Reference" "U8X"
+			(at 345.948 414.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42241,7 +42209,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 199.898 415.544 0)
+			(at 343.408 414.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42249,7 +42217,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 415.29 0)
+			(at 344.17 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42258,7 +42226,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 200.66 415.29 0)
+			(at 344.17 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42267,7 +42235,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 200.66 415.29 0)
+			(at 344.17 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42320,7 +42288,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U28")
+					(reference "U8X")
 					(unit 3)
 				)
 			)
@@ -42557,15 +42525,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 386.08 365.76 0)
+		(at 335.28 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4acd154d-99ce-4d61-9f7b-1a23c3c59bfa")
-		(property "Reference" "U35"
-			(at 383.032 365.76 90)
+		(property "Reference" "U6X"
+			(at 332.232 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42573,7 +42541,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 385.572 365.76 90)
+			(at 334.772 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42581,7 +42549,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 386.08 365.76 0)
+			(at 335.28 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42590,7 +42558,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 386.08 365.76 0)
+			(at 335.28 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42599,7 +42567,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 386.08 365.76 0)
+			(at 335.28 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42652,7 +42620,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U35")
+					(reference "U6X")
 					(unit 5)
 				)
 			)
@@ -42667,7 +42635,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4af1841d-022d-4385-975f-aa0ce2f7a81d")
-		(property "Reference" "U18"
+		(property "Reference" "U9X"
 			(at 268.478 426.72 0)
 			(effects
 				(font
@@ -42755,7 +42723,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U18")
+					(reference "U9X")
 					(unit 1)
 				)
 			)
@@ -42770,7 +42738,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d324d73-355d-4d26-9eb9-8fd7670bdb72")
-		(property "Reference" "U36"
+		(property "Reference" "U5X"
 			(at 364.744 426.974 90)
 			(effects
 				(font
@@ -42860,7 +42828,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U36")
+					(reference "U5X")
 					(unit 4)
 				)
 			)
@@ -42875,7 +42843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e430193-4d11-4d2d-8bb3-62bd4e909a5c")
-		(property "Reference" "U35"
+		(property "Reference" "U6X"
 			(at 381.508 412.496 90)
 			(effects
 				(font
@@ -42965,7 +42933,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U35")
+					(reference "U6X")
 					(unit 1)
 				)
 			)
@@ -42973,15 +42941,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 300.99 431.8 270)
+		(at 264.16 416.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "50e51fa2-e530-4036-9ee7-8cb911c01c80")
-		(property "Reference" "U31"
-			(at 297.434 430.022 90)
+		(property "Reference" "U11X"
+			(at 260.604 414.782 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42990,7 +42958,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 297.434 432.562 90)
+			(at 260.604 417.322 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42999,7 +42967,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 300.99 431.8 0)
+			(at 264.16 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43008,7 +42976,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 300.99 431.8 0)
+			(at 264.16 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43017,7 +42985,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 300.99 431.8 0)
+			(at 264.16 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43070,7 +43038,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U31")
+					(reference "U11X")
 					(unit 1)
 				)
 			)
@@ -43233,7 +43201,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "55d83731-1600-43a3-908b-4b7c586b769e")
-		(property "Reference" "U20"
+		(property "Reference" "U19X"
 			(at 85.344 478.5361 90)
 			(effects
 				(font
@@ -43323,7 +43291,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U20")
+					(reference "U19X")
 					(unit 4)
 				)
 			)
@@ -43338,7 +43306,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "55f3aa2c-e474-4698-8e3c-d8f967b82c3d")
-		(property "Reference" "U23"
+		(property "Reference" "U17X"
 			(at 118.872 430.53 90)
 			(effects
 				(font
@@ -43428,7 +43396,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U23")
+					(reference "U17X")
 					(unit 4)
 				)
 			)
@@ -43443,7 +43411,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c3c90d8-a075-4249-880e-e6d767b8f1e5")
-		(property "Reference" "U38"
+		(property "Reference" "U20X"
 			(at 38.354 598.17 90)
 			(effects
 				(font
@@ -43533,7 +43501,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U38")
+					(reference "U20X")
 					(unit 4)
 				)
 			)
@@ -43541,15 +43509,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 162.56 415.29 270)
+		(at 119.38 447.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5e802018-6b3f-4f6b-9633-d628f2acf2c5")
-		(property "Reference" "U23"
-			(at 159.004 413.512 90)
+		(property "Reference" "U17X"
+			(at 115.824 445.262 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43558,7 +43526,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 159.004 416.052 90)
+			(at 115.824 447.802 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43567,7 +43535,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 415.29 0)
+			(at 119.38 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43576,7 +43544,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 162.56 415.29 0)
+			(at 119.38 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43585,7 +43553,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 162.56 415.29 0)
+			(at 119.38 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43638,7 +43606,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U23")
+					(reference "U17X")
 					(unit 1)
 				)
 			)
@@ -43756,7 +43724,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 281.94 447.04 0)
+		(at 48.26 415.29 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43764,7 +43732,7 @@
 		(dnp no)
 		(uuid "6377a026-bb85-4407-af61-38cab59e8ea9")
 		(property "Reference" "U18"
-			(at 280.162 450.342 90)
+			(at 44.958 413.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43773,7 +43741,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 282.702 450.342 90)
+			(at 44.958 416.052 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43782,7 +43750,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 281.94 447.04 0)
+			(at 48.26 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43791,7 +43759,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 281.94 447.04 0)
+			(at 48.26 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43800,7 +43768,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 281.94 447.04 0)
+			(at 48.26 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43868,7 +43836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "664b27ab-2c58-4738-be3d-677d17a10a4e")
-		(property "Reference" "U18"
+		(property "Reference" "U9X"
 			(at 16.002 598.17 90)
 			(effects
 				(font
@@ -43958,7 +43926,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U18")
+					(reference "U9X")
 					(unit 3)
 				)
 			)
@@ -44051,15 +44019,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 403.86 439.42 270)
+		(at 403.86 429.26 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6659d01f-41a4-4d63-aeeb-63be512e7c29")
-		(property "Reference" "U19"
-			(at 403.86 435.864 90)
+		(property "Reference" "U18X"
+			(at 403.86 425.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44067,7 +44035,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 403.86 438.404 90)
+			(at 403.86 428.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44075,7 +44043,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 439.42 0)
+			(at 403.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44084,7 +44052,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 403.86 439.42 0)
+			(at 403.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44093,7 +44061,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 403.86 439.42 0)
+			(at 403.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44146,7 +44114,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U19")
+					(reference "U18X")
 					(unit 4)
 				)
 			)
@@ -44161,7 +44129,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a147e76-09c8-4bf6-9dcd-a3326af743f0")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 286.258 197.612 90)
 			(effects
 				(font
@@ -44207,51 +44175,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5f")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c11")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33727")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a8")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d18")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe76")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f34124a")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7d")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532e")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee2")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08fb")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e1")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf02")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890ce")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 5)
 				)
 			)
@@ -44266,7 +44234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b9a5f9b-745d-422f-aab0-94bed9b14929")
-		(property "Reference" "U36"
+		(property "Reference" "U5X"
 			(at 369.57 411.9796 90)
 			(effects
 				(font
@@ -44356,7 +44324,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U36")
+					(reference "U5X")
 					(unit 3)
 				)
 			)
@@ -44364,15 +44332,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 375.92 365.76 0)
+		(at 386.08 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6daf5a50-a748-4b15-a957-8d4e850ef38f")
-		(property "Reference" "U31"
-			(at 371.602 364.236 0)
+		(property "Reference" "U11X"
+			(at 381.762 364.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44381,7 +44349,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 371.602 366.776 0)
+			(at 381.762 366.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44390,7 +44358,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 375.92 365.76 0)
+			(at 386.08 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44399,7 +44367,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 375.92 365.76 0)
+			(at 386.08 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44408,7 +44376,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 375.92 365.76 0)
+			(at 386.08 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44461,7 +44429,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U31")
+					(reference "U11X")
 					(unit 5)
 				)
 			)
@@ -44469,15 +44437,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 365.76 365.76 0)
+		(at 375.92 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6f363f9c-60f1-4d77-b279-d73161012ed4")
-		(property "Reference" "U33"
-			(at 360.934 364.236 0)
+		(property "Reference" "U10X"
+			(at 371.094 364.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44486,7 +44454,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 360.934 366.776 0)
+			(at 371.094 366.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44495,7 +44463,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 365.76 365.76 0)
+			(at 375.92 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44504,7 +44472,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 365.76 365.76 0)
+			(at 375.92 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44513,7 +44481,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 365.76 365.76 0)
+			(at 375.92 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44566,7 +44534,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U33")
+					(reference "U10X")
 					(unit 5)
 				)
 			)
@@ -44581,7 +44549,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6fceb00b-90a4-4bfa-a360-4c6327ee96f6")
-		(property "Reference" "U33"
+		(property "Reference" "U10X"
 			(at 306.324 415.036 90)
 			(effects
 				(font
@@ -44671,7 +44639,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U33")
+					(reference "U10X")
 					(unit 1)
 				)
 			)
@@ -44679,15 +44647,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 251.46 414.02 270)
+		(at 318.77 431.8 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "739c3900-c107-4263-9456-1ed541f056c1")
-		(property "Reference" "U33"
-			(at 247.904 412.75 90)
+		(property "Reference" "U10X"
+			(at 315.214 430.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44696,7 +44664,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 247.904 415.29 90)
+			(at 315.214 433.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44705,7 +44673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 414.02 0)
+			(at 318.77 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44714,7 +44682,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 251.46 414.02 0)
+			(at 318.77 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44723,7 +44691,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 251.46 414.02 0)
+			(at 318.77 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44776,7 +44744,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U33")
+					(reference "U10X")
 					(unit 3)
 				)
 			)
@@ -44791,7 +44759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75ba144f-0ec8-406e-93e7-5090b98a8b7c")
-		(property "Reference" "U36"
+		(property "Reference" "U5X"
 			(at 321.31 364.236 0)
 			(effects
 				(font
@@ -44881,7 +44849,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U36")
+					(reference "U5X")
 					(unit 5)
 				)
 			)
@@ -44896,7 +44864,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7beca2e5-4407-4a7a-b60b-4fdda67f2584")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 270.51 464.312 90)
 			(effects
 				(font
@@ -44942,51 +44910,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f60")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c12")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33728")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a9")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d19")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe77")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f34124b")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7e")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532f")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee3")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08fc")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e2")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf03")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890cf")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 2)
 				)
 			)
@@ -45113,15 +45081,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 318.77 431.8 270)
+		(at 251.46 414.02 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "82e7be6d-92c9-4470-aa74-2e00a271d52f")
-		(property "Reference" "U31"
-			(at 315.722 430.53 90)
+		(property "Reference" "U11X"
+			(at 248.412 412.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45130,7 +45098,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 315.722 433.07 90)
+			(at 248.412 415.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45139,7 +45107,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 318.77 431.8 0)
+			(at 251.46 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45148,7 +45116,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 318.77 431.8 0)
+			(at 251.46 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45157,7 +45125,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 318.77 431.8 0)
+			(at 251.46 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45210,7 +45178,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U31")
+					(reference "U11X")
 					(unit 4)
 				)
 			)
@@ -45292,7 +45260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85e05681-d84f-4dca-8ec6-1c827cfc901d")
-		(property "Reference" "U28"
+		(property "Reference" "U8X"
 			(at 329.692 474.98 0)
 			(effects
 				(font
@@ -45380,7 +45348,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U28")
+					(reference "U8X")
 					(unit 2)
 				)
 			)
@@ -45619,7 +45587,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9523ee71-485f-483f-8197-31393edf0fed")
-		(property "Reference" "U19"
+		(property "Reference" "U18X"
 			(at 90.424 447.294 90)
 			(effects
 				(font
@@ -45709,7 +45677,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U19")
+					(reference "U18X")
 					(unit 3)
 				)
 			)
@@ -45724,7 +45692,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95baafee-3393-4498-b81e-d340cbc4915a")
-		(property "Reference" "U34"
+		(property "Reference" "U4X"
 			(at 286.004 362.204 90)
 			(effects
 				(font
@@ -45842,7 +45810,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U34")
+					(reference "U4X")
 					(unit 1)
 				)
 			)
@@ -45850,15 +45818,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 403.86 449.58 270)
+		(at 396.24 365.76 0)
 		(unit 7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "98ab5f06-9076-49a7-9b81-a144800ba0d6")
-		(property "Reference" "U39"
-			(at 403.86 446.024 90)
+		(property "Reference" "U12X"
+			(at 392.684 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45866,7 +45834,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 403.86 448.564 90)
+			(at 395.224 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45874,7 +45842,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 449.58 0)
+			(at 396.24 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45883,7 +45851,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 403.86 449.58 0)
+			(at 396.24 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45892,7 +45860,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 403.86 449.58 0)
+			(at 396.24 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45901,51 +45869,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f61")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c13")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33729")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244aa")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d1a")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe78")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f34124c")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7f")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b5330")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee4")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08fd")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e3")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf04")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890d0")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 7)
 				)
 			)
@@ -46082,7 +46050,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0a6a833-f571-4f9a-9893-c1301816588c")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 61.214 421.386 0)
 			(effects
 				(font
@@ -46126,51 +46094,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f62")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c14")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e3372a")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244ab")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d1b")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe79")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f34124d")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd80")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b5331")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee5")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08fe")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e4")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf05")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890d1")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 1)
 				)
 			)
@@ -46254,15 +46222,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 403.86 384.81 270)
+		(at 355.6 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a30bc852-2def-4093-8101-90825502866b")
-		(property "Reference" "U28"
-			(at 403.86 381.254 90)
+		(property "Reference" "U8X"
+			(at 352.044 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46270,7 +46238,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 403.86 383.794 90)
+			(at 354.584 365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46278,7 +46246,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 384.81 0)
+			(at 355.6 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46287,7 +46255,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 403.86 384.81 0)
+			(at 355.6 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46296,7 +46264,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 403.86 384.81 0)
+			(at 355.6 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46349,7 +46317,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U28")
+					(reference "U8X")
 					(unit 5)
 				)
 			)
@@ -46364,7 +46332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3229645-1f7b-4f98-8e23-0d64aadd5c4f")
-		(property "Reference" "U38"
+		(property "Reference" "U20X"
 			(at 258.572 101.854 90)
 			(effects
 				(font
@@ -46454,7 +46422,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U38")
+					(reference "U20X")
 					(unit 2)
 				)
 			)
@@ -46469,7 +46437,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a58ec568-e0f7-47c0-af24-69de7012b776")
-		(property "Reference" "U20"
+		(property "Reference" "U19X"
 			(at 87.884 463.296 90)
 			(effects
 				(font
@@ -46559,7 +46527,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U20")
+					(reference "U19X")
 					(unit 3)
 				)
 			)
@@ -46567,15 +46535,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 144.78 430.53 270)
+		(at 187.96 415.29 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ab13ba45-b1bb-4691-82ab-377cc48ff99a")
-		(property "Reference" "U26"
-			(at 141.478 427.99 90)
+		(property "Reference" "U14X"
+			(at 184.658 412.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46584,7 +46552,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 141.478 430.53 90)
+			(at 184.658 415.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46593,7 +46561,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 430.53 0)
+			(at 187.96 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46602,7 +46570,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 144.78 430.53 0)
+			(at 187.96 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46611,7 +46579,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 144.78 430.53 0)
+			(at 187.96 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46664,7 +46632,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U26")
+					(reference "U14X")
 					(unit 2)
 				)
 			)
@@ -46679,7 +46647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aef359f1-71dc-46d0-a303-b1aa1825038b")
-		(property "Reference" "U28"
+		(property "Reference" "U8X"
 			(at 198.12 433.324 0)
 			(effects
 				(font
@@ -46767,7 +46735,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U28")
+					(reference "U8X")
 					(unit 4)
 				)
 			)
@@ -46906,7 +46874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b198a30e-46a6-40c8-baf6-9aefe2536e0a")
-		(property "Reference" "U30"
+		(property "Reference" "U13X"
 			(at 215.138 428.498 90)
 			(effects
 				(font
@@ -46996,7 +46964,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U30")
+					(reference "U13X")
 					(unit 2)
 				)
 			)
@@ -47012,7 +46980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b348185e-73a6-4d29-97d4-08f099b8ea4e")
-		(property "Reference" "U21"
+		(property "Reference" "U1X"
 			(at 83.82 360.7114 90)
 			(effects
 				(font
@@ -47130,7 +47098,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U21")
+					(reference "U1X")
 					(unit 1)
 				)
 			)
@@ -47145,7 +47113,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b36cbb91-ec19-4a30-ae46-08d1735abbd1")
-		(property "Reference" "U25"
+		(property "Reference" "U15X"
 			(at 132.334 407.924 90)
 			(effects
 				(font
@@ -47235,7 +47203,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U25")
+					(reference "U15X")
 					(unit 2)
 				)
 			)
@@ -47243,15 +47211,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 330.2 467.36 180)
+		(at 330.2 492.76 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bbc1cbcb-e115-4cfe-af5a-3c44ea73f198")
-		(property "Reference" "U28"
-			(at 329.692 466.344 0)
+		(property "Reference" "U8X"
+			(at 329.692 491.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47259,7 +47227,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 329.692 468.884 0)
+			(at 329.692 494.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47267,7 +47235,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 330.2 467.36 0)
+			(at 330.2 492.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47276,7 +47244,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 330.2 467.36 0)
+			(at 330.2 492.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47285,7 +47253,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 330.2 467.36 0)
+			(at 330.2 492.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47338,7 +47306,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U28")
+					(reference "U8X")
 					(unit 1)
 				)
 			)
@@ -47726,7 +47694,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0350fb7-6348-4ec0-b730-461bc95e4b15")
-		(property "Reference" "U30"
+		(property "Reference" "U13X"
 			(at 95.504 432.054 90)
 			(effects
 				(font
@@ -47816,7 +47784,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U30")
+					(reference "U13X")
 					(unit 3)
 				)
 			)
@@ -47831,7 +47799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c18482db-b4c8-44a4-8356-f4344df750a2")
-		(property "Reference" "U23"
+		(property "Reference" "U17X"
 			(at 121.412 413.766 90)
 			(effects
 				(font
@@ -47921,7 +47889,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U23")
+					(reference "U17X")
 					(unit 2)
 				)
 			)
@@ -47936,7 +47904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1e6c295-9082-4ea6-ab1a-3307f8867bef")
-		(property "Reference" "U27"
+		(property "Reference" "U7X"
 			(at 291.846 488.442 0)
 			(effects
 				(font
@@ -48024,7 +47992,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U27")
+					(reference "U7X")
 					(unit 1)
 				)
 			)
@@ -48105,15 +48073,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 187.96 415.29 270)
+		(at 181.61 430.53 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c48c3dcb-eeac-44c4-b91f-f377669abbc4")
-		(property "Reference" "U26"
-			(at 184.658 413.004 90)
+		(property "Reference" "U14X"
+			(at 178.308 428.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48122,7 +48090,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 184.658 415.544 90)
+			(at 178.308 430.784 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48131,7 +48099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 415.29 0)
+			(at 181.61 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48140,7 +48108,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 187.96 415.29 0)
+			(at 181.61 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48149,7 +48117,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 187.96 415.29 0)
+			(at 181.61 430.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48202,7 +48170,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U26")
+					(reference "U14X")
 					(unit 3)
 				)
 			)
@@ -48512,15 +48480,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 48.26 415.29 270)
+		(at 281.94 447.04 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c65ae129-aef2-4da8-8145-c626ce0c4680")
-		(property "Reference" "U18"
-			(at 45.212 413.766 90)
+		(property "Reference" "U9X"
+			(at 280.416 450.088 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48529,7 +48497,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 45.212 416.306 90)
+			(at 282.956 450.088 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48538,7 +48506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 415.29 0)
+			(at 281.94 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48547,7 +48515,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 48.26 415.29 0)
+			(at 281.94 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48556,7 +48524,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 48.26 415.29 0)
+			(at 281.94 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48609,7 +48577,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U18")
+					(reference "U9X")
 					(unit 2)
 				)
 			)
@@ -48759,15 +48727,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 403.86 408.94 270)
+		(at 403.86 388.62 270)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cab5cdd8-e898-49cf-97fa-459bda5b9793")
-		(property "Reference" "U26"
-			(at 404.114 405.384 90)
+		(property "Reference" "U14X"
+			(at 404.114 385.064 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48775,7 +48743,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 404.114 407.924 90)
+			(at 404.114 387.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48783,7 +48751,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 408.94 0)
+			(at 403.86 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48792,7 +48760,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 403.86 408.94 0)
+			(at 403.86 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48801,7 +48769,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 403.86 408.94 0)
+			(at 403.86 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48854,7 +48822,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U26")
+					(reference "U14X")
 					(unit 4)
 				)
 			)
@@ -48942,7 +48910,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd97c9ff-a299-4eae-b51b-04862da83c8e")
-		(property "Reference" "U26"
+		(property "Reference" "U14X"
 			(at 171.958 413.004 90)
 			(effects
 				(font
@@ -49032,7 +49000,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U26")
+					(reference "U14X")
 					(unit 1)
 				)
 			)
@@ -49510,7 +49478,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8d77b59-f8f0-4498-8589-823f4f32de41")
-		(property "Reference" "U27"
+		(property "Reference" "U7X"
 			(at 307.594 483.616 0)
 			(effects
 				(font
@@ -49598,7 +49566,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U27")
+					(reference "U7X")
 					(unit 2)
 				)
 			)
@@ -49613,7 +49581,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db716d6b-54a4-4f73-84d5-6c96a6d42e43")
-		(property "Reference" "U20"
+		(property "Reference" "U19X"
 			(at 47.498 428.752 90)
 			(effects
 				(font
@@ -49703,7 +49671,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U20")
+					(reference "U19X")
 					(unit 2)
 				)
 			)
@@ -49711,15 +49679,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 264.16 415.29 270)
+		(at 300.99 431.8 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "de3ec5ae-e31e-491b-a30e-fff55b24455b")
-		(property "Reference" "U33"
-			(at 261.112 413.766 90)
+		(property "Reference" "U10X"
+			(at 297.942 430.276 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49728,7 +49696,7 @@
 			)
 		)
 		(property "Value" "74LS32"
-			(at 261.112 416.306 90)
+			(at 297.942 432.816 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49737,7 +49705,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 415.29 0)
+			(at 300.99 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49746,7 +49714,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 264.16 415.29 0)
+			(at 300.99 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49755,7 +49723,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 264.16 415.29 0)
+			(at 300.99 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49808,7 +49776,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U33")
+					(reference "U10X")
 					(unit 2)
 				)
 			)
@@ -49889,15 +49857,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 335.28 365.76 0)
+		(at 365.76 365.76 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "de778b9f-8ba6-4f03-a73f-85ee4eed37ed")
-		(property "Reference" "U18"
-			(at 331.47 366.014 90)
+		(property "Reference" "U9X"
+			(at 361.95 366.014 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49905,7 +49873,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 334.01 366.014 90)
+			(at 364.49 366.014 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49913,7 +49881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 335.28 365.76 0)
+			(at 365.76 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49922,7 +49890,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 335.28 365.76 0)
+			(at 365.76 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49931,7 +49899,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 335.28 365.76 0)
+			(at 365.76 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49984,7 +49952,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U18")
+					(reference "U9X")
 					(unit 5)
 				)
 			)
@@ -50440,7 +50408,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed1fa27f-9186-4e99-8b99-b6d9a32c6508")
-		(property "Reference" "U30"
+		(property "Reference" "U13X"
 			(at 212.598 413.004 90)
 			(effects
 				(font
@@ -50530,7 +50498,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U30")
+					(reference "U13X")
 					(unit 1)
 				)
 			)
@@ -50546,7 +50514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed6887d0-7e50-47a6-9cd0-5c0ace8c6bac")
-		(property "Reference" "U24"
+		(property "Reference" "U2X"
 			(at 165.1 360.7114 90)
 			(effects
 				(font
@@ -50664,7 +50632,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U24")
+					(reference "U2X")
 					(unit 1)
 				)
 			)
@@ -50679,7 +50647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "efc99141-ff63-4874-bdcc-0744d38b88cd")
-		(property "Reference" "U35"
+		(property "Reference" "U6X"
 			(at 370.84 443.23 90)
 			(effects
 				(font
@@ -50769,7 +50737,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U35")
+					(reference "U6X")
 					(unit 4)
 				)
 			)
@@ -50784,7 +50752,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0e57b71-1229-4db6-9ba1-66e12ece88ac")
-		(property "Reference" "U35"
+		(property "Reference" "U6X"
 			(at 316.484 466.344 90)
 			(effects
 				(font
@@ -50874,7 +50842,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U35")
+					(reference "U6X")
 					(unit 2)
 				)
 			)
@@ -50889,7 +50857,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f1e73f31-171d-40db-8728-b816262c4078")
-		(property "Reference" "U31"
+		(property "Reference" "U11X"
 			(at 233.68 438.15 90)
 			(effects
 				(font
@@ -50979,7 +50947,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U31")
+					(reference "U11X")
 					(unit 3)
 				)
 			)
@@ -50994,7 +50962,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f20a7b11-84f7-4b0f-a90d-e92ac69302d2")
-		(property "Reference" "U39"
+		(property "Reference" "U12X"
 			(at 22.86 597.154 90)
 			(effects
 				(font
@@ -51040,51 +51008,51 @@
 			)
 		)
 		(pin "12"
-			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f5d")
+			(uuid "0f236d5a-fef3-407c-9e71-c2f694f92f63")
 		)
 		(pin "9"
-			(uuid "26552ff0-2579-4771-8d25-73030bc59c0f")
+			(uuid "26552ff0-2579-4771-8d25-73030bc59c15")
 		)
 		(pin "1"
-			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e33725")
+			(uuid "fcc7f7a4-f625-401a-b8c5-efdcc3e3372b")
 		)
 		(pin "4"
-			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244a6")
+			(uuid "c3f4c057-b3e1-4ac4-9dee-8af24d7244ac")
 		)
 		(pin "11"
-			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d16")
+			(uuid "2feb01de-f31f-4b03-898d-1a2b9db53d1c")
 		)
 		(pin "7"
-			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe74")
+			(uuid "52ae9f17-67c0-4fea-bf93-6df77d33fe7a")
 		)
 		(pin "14"
-			(uuid "c71c6992-53d1-4e95-9c33-a6a51f341248")
+			(uuid "c71c6992-53d1-4e95-9c33-a6a51f34124e")
 		)
 		(pin "2"
-			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd7b")
+			(uuid "2aa5f0f3-2387-4a89-93a5-4c6ddfc1fd81")
 		)
 		(pin "6"
-			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b532c")
+			(uuid "753f0c2c-a15b-4b07-9957-9b8d149b5332")
 		)
 		(pin "8"
-			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee0")
+			(uuid "cff23423-9fdb-4f14-a005-78fc351fdee6")
 		)
 		(pin "3"
-			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08f9")
+			(uuid "c8740df0-f0b5-419a-9b14-474dcc9b08ff")
 		)
 		(pin "10"
-			(uuid "4347599d-fc5d-418e-8abc-5c53a34278df")
+			(uuid "4347599d-fc5d-418e-8abc-5c53a34278e5")
 		)
 		(pin "13"
-			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf00")
+			(uuid "300598b7-81ef-4ac4-ac62-0d960a55bf06")
 		)
 		(pin "5"
-			(uuid "bb31a9ba-8342-4897-a285-6233e52890cc")
+			(uuid "bb31a9ba-8342-4897-a285-6233e52890d2")
 		)
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U39")
+					(reference "U12X")
 					(unit 6)
 				)
 			)
@@ -51099,7 +51067,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f25b4192-55b9-4e9e-be9b-bc9b5f7c1e63")
-		(property "Reference" "U23"
+		(property "Reference" "U17X"
 			(at 138.684 444.5 90)
 			(effects
 				(font
@@ -51189,7 +51157,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U23")
+					(reference "U17X")
 					(unit 3)
 				)
 			)
@@ -51356,7 +51324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe213302-8a34-4615-8799-3358d3e63c6d")
-		(property "Reference" "U36"
+		(property "Reference" "U5X"
 			(at 353.314 427.228 90)
 			(effects
 				(font
@@ -51446,7 +51414,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U36")
+					(reference "U5X")
 					(unit 1)
 				)
 			)
@@ -51461,7 +51429,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffa780a8-a1b9-49da-bfeb-a0f4e795b346")
-		(property "Reference" "U38"
+		(property "Reference" "U20X"
 			(at 217.678 444.754 90)
 			(effects
 				(font
@@ -51551,7 +51519,7 @@
 		(instances
 			(project ""
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U38")
+					(reference "U20X")
 					(unit 3)
 				)
 			)
@@ -51707,15 +51675,15 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 181.61 430.53 270)
+		(at 106.68 415.29 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ffceec7d-89bc-4e99-837b-8973e1769001")
-		(property "Reference" "U27"
-			(at 180.086 430.53 0)
+		(property "Reference" "U7X"
+			(at 105.156 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51723,7 +51691,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 182.626 430.53 0)
+			(at 107.696 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51731,7 +51699,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 430.53 0)
+			(at 106.68 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51740,7 +51708,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 181.61 430.53 0)
+			(at 106.68 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51749,7 +51717,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 181.61 430.53 0)
+			(at 106.68 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51802,7 +51770,7 @@
 		(instances
 			(project "JBD8-16"
 				(path "/f67810eb-7be9-420b-aa67-1ebcf9093e9f"
-					(reference "U27")
+					(reference "U7X")
 					(unit 3)
 				)
 			)
