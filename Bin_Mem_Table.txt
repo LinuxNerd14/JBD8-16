@@ -10,7 +10,7 @@ xCS    0000  0000  0000  0000
 HEX MAP
 ROM  = C182 > FFFF      Reset Vector lives from FFFC > FFFD
 SCM  = 4481 > C181
-OS   = 0041 > 4480      Stack lives here from 0100 > 010F
+OS   = 0041 > 4480      Stack lives here from 0100 > 010F  in hex is 0000-0001-0000-0000>0000-0001-0000-1111
 I/O  = 0002 > 0040
 Rand = 0001
 CS   = 0000
