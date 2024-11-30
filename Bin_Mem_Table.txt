@@ -1,15 +1,15 @@
-BIN MAP
+BIN MAP addresses are inclusive
 ROM    1100  0001  1000  0010  >  1111  1111  1111  1111
-xSCM   0100  0100  1000  0001  >  1100  0001  1000  0001
-xOS    0000  0000  0100  0001  >  0100  0100  1000  0000
+xSCM   0100  0100  1000  0000  >  1100  0001  1000  0001
+xOS    0000  0000  0100  0001  >  0100  0100  0111  1111
 xI/O   0000  0000  0000  0010  >  0000  0000  0100  0000
 xRand  0000  0000  0000  0001
 xCS    0000  0000  0000  0000
 
-HEX MAP
+HEX MAP addresses are inclusive
 ROM  = C182 > FFFF      Reset Vector lives from FFFC > FFFD
-SCM  = 4481 > C181
-OS   = 0041 > 4480      Stack lives here from 0100 > 010F  in bin is 0000-0001-0000-0000>0000-0001-0000-1111
+SCM  = 4480 > C181
+OS   = 0041 > 447F      Stack lives here from 0100 > 010F  in bin is 0000-0001-0000-0000>0000-0001-0000-1111
 I/O  = 0002 > 0040
 Rand = 0001
 CS   = 0000
