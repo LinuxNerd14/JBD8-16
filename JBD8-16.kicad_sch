@@ -12398,12 +12398,6 @@
 		(uuid "5b312d48-4cb6-4958-a94e-e1fc843f3c12")
 	)
 	(junction
-		(at 167.64 478.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c055701-81ee-416d-a7ae-834288d03fc8")
-	)
-	(junction
 		(at 259.08 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12480,6 +12474,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d32b94e-654d-4d22-9daa-9657ae5cabe0")
+	)
+	(junction
+		(at 167.64 478.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dfbfa91-b5f1-4706-9b53-f16cb0eb68e4")
 	)
 	(junction
 		(at 295.91 354.33)
@@ -12578,16 +12578,16 @@
 		(uuid "810436cd-2c9e-4f7c-a015-f2a81402a127")
 	)
 	(junction
+		(at 368.3 436.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "812e71a1-cf31-4f3d-adcf-b4f36df23f4e")
+	)
+	(junction
 		(at 416.56 429.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "81ba917a-ea86-4cdf-a671-9d8542f11eb9")
-	)
-	(junction
-		(at 368.3 436.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "84c81f72-aa48-4473-87bd-886d89ecddd1")
 	)
 	(junction
 		(at 87.63 133.35)
@@ -23059,16 +23059,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 422.91) (xy 264.16 424.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "683958dc-6c12-4b66-ab89-03aae537a1cc")
-	)
-	(wire
-		(pts
 			(xy 254 17.78) (xy 304.8 17.78)
 		)
 		(stroke
@@ -25666,16 +25656,6 @@
 			(type default)
 		)
 		(uuid "96bcfb2f-b455-4068-9306-39258707d54c")
-	)
-	(wire
-		(pts
-			(xy 368.3 436.88) (xy 370.84 436.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96c0ad1c-6eff-41f3-9cc9-9e955860b154")
 	)
 	(wire
 		(pts
@@ -28626,6 +28606,16 @@
 			(type default)
 		)
 		(uuid "c9a4bcd2-d5ec-4a42-bdab-1d2575178182")
+	)
+	(wire
+		(pts
+			(xy 368.3 436.88) (xy 370.84 436.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9a798e2-aecd-445d-a4d1-179dde39b1ab")
 	)
 	(wire
 		(pts
@@ -32022,16 +32012,6 @@
 		)
 		(uuid "3154b408-ac7c-471e-868b-5d5412748845")
 	)
-	(text "0110-1001-1010-1111 SCM"
-		(exclude_from_sim no)
-		(at 301.752 461.518 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "335370a5-70af-4ae5-8839-69a7fa9945f1")
-	)
 	(text "ACTIVE HIGH"
 		(exclude_from_sim no)
 		(at 273.304 498.094 90)
@@ -35274,7 +35254,7 @@
 		(uuid "84494c4d-ea7a-4bb5-b253-4ba2427ea0b1")
 	)
 	(label "L5"
-		(at 149.86 407.67 0)
+		(at 152.4 407.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -36146,7 +36126,7 @@
 		(uuid "b0862f3a-23cf-4797-b510-b8740290dba3")
 	)
 	(label "L6"
-		(at 152.4 407.67 0)
+		(at 149.86 407.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -40281,7 +40261,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 167.64 471.17 270)
+		(at 93.98 449.58 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40289,7 +40269,7 @@
 		(dnp no)
 		(uuid "346d0afa-fa5b-48a1-8a88-3c8038c2f866")
 		(property "Reference" "U18X"
-			(at 164.338 468.884 90)
+			(at 90.678 447.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40298,7 +40278,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 164.338 471.424 90)
+			(at 90.678 449.834 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40307,7 +40287,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 471.17 0)
+			(at 93.98 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40316,7 +40296,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 167.64 471.17 0)
+			(at 93.98 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40325,7 +40305,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 167.64 471.17 0)
+			(at 93.98 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44506,7 +44486,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS11")
-		(at 93.98 449.58 270)
+		(at 167.64 471.17 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44514,7 +44494,7 @@
 		(dnp no)
 		(uuid "9523ee71-485f-483f-8197-31393edf0fed")
 		(property "Reference" "U18X"
-			(at 90.424 447.294 90)
+			(at 164.084 468.884 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44523,7 +44503,7 @@
 			)
 		)
 		(property "Value" "74LS11"
-			(at 90.424 449.834 90)
+			(at 164.084 471.424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44532,7 +44512,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 449.58 0)
+			(at 167.64 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44541,7 +44521,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS11"
-			(at 93.98 449.58 0)
+			(at 167.64 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44550,7 +44530,7 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
-			(at 93.98 449.58 0)
+			(at 167.64 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
