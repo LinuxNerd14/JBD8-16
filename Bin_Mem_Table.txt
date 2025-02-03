@@ -1,6 +1,6 @@
 RESET VECTOR == 7FFC, 7FFD
 
-BIN MAP addresses are inclusive
+BIN MAP !Addresses are inclusive!
 ROM    1100  0001  1000  0010  >  1111  1111  1111  1111
 xSCM   0100  0100  1000  0000  >  1100  0001  1000  0001
 xOS    0000  0000  0100  0001  >  0100  0100  0111  1111
@@ -11,7 +11,7 @@ xCS    0000  0000  0000  0000
 HEX MAP addresses are inclusive
 ROM  = C182 > FFFF      Reset Vector lives from FFFC > FFFD
 SCM  = 4480 > C181
-OS   = 0041 > 447F      Stack lives here from 0100 > 010F  in bin is 0000-0001-0000-0000>0000-0001-0000-1111
+OS   = 0041 > 447F      Stack lives here from 0100 > 010F  in bin is 0000-0001-0000-0000 > 0000-0001-0000-1111
 I/O  = 0002 > 0040
 Rand = 0001
 CS   = 0000
@@ -119,5 +119,5 @@ Each address individually:
     0000-0000-0011-1101
     0000-0000-0011-1110
     0000-0000-0011-1111
-
+                |
     0000-0000-0100-0000
