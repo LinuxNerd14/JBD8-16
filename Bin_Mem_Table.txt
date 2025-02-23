@@ -121,3 +121,19 @@ Each address individually:
     0000-0000-0011-1111
                 |
     0000-0000-0100-0000
+
+
+
+
+
+
+
+
+
+Possible fixed table in hex, inclusive
+ROM     C17F > FFFF     16000
+SCM     4480 > C17E     32000
+I/O     4442 > 447F     62
+RAND    4441            1
+CS      4440            1
+OS      0000 > 443F     17471
