@@ -129,11 +129,31 @@ Each address individually:
 
 
 
+What the Decoder needs to do:
+    Send a SCMRW signal that is 0 if SCM is selected and a write is happening
+    Decode address to enable parts of the computer
+    Invert the R/W signal
+    
 
-Possible fixed table in hex, inclusive
-ROM     C17F > FFFF     16000
-SCM     4480 > C17E     32000
-I/O     4442 > 447F     62
-RAND    4441            1
-CS      4440            1
-OS      0000 > 443F     17471
+
+Fixed table in hex, inclusive   sector size     Notes
+ROM     C180 > FFFF             16000           
+SCM     4480 > C17F             32000           
+MISC    4474 > 447F             12              
+UART    4470 > 4473             4               
+VIA     4460 > 446F             16              
+VERA    4440 > 445F             32              
+RAND    443F                    1               
+CS      443E                    1               ACTIVE HIGH
+OS      0000 > 443D             17470           
+
+In Binary
+ROM     1100-0001-1000-0000  >  1111-1111-1111-1111
+SCM     0100-0100-1000-0000  >  1100-0001-0111-1111
+MISC    0100-0100-0111-0100  >  0100-0100-0111-1111
+UART    0100-0100-0111-0000  >  0100-0100-0111-0011
+VIA     0100-0100-0110-0000  >  0100-0100-0110-1111
+VERA    0100-0100-0100-0000  >  0100-0100-0101-1111
+RAND    0100-0100-0011-1111
+CS      0100-0100-0011-1110
+OS      0000-0000-0000-0000  >  0100-0100-0011-1101
