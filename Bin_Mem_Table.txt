@@ -1,4 +1,26 @@
-RESET VECTOR == 7FFC, 7FFD
+CODE REQUIRMENTS FOR VASM:
+
+File must be 0x8000 in size to fill a 32Kibibyte ROM chip,
+Code in the lower half of the chip is inaccesible. (0x0000 -> 417F, inclusive)
+TO THE COMPUTER: The ROM starts at c180 but the ROM doesn't see A15.
+TO THE ROM: The COMPUTER starts reading ROM at 0x4180.
+
+The very beggining of code must look like:
+    .org $0000
+    .word $0000
+  All this does is make sure that the inaccesibl space bellow 417F is there to make the file
+  big enough to fill the ROM.
+
+The very end of the code must look like:
+    .org $7ffc
+    .word $c180
+    .org $7ffe
+    .word $FFFF
+  The FFFF at the end is to pad the file to be big enough and 7ffc and 7ffd is the reset vector location
+  on the ROM (The computer sees fffc and fffd)
+  This makes the end of the file look like:
+    00 00 00 00 80 c1 ff ff
+
 What the Decoder needs to do:
     Send a SCMRW signal that is 0 if SCM is selected and a write is happening
     Decode address to enable parts of the computer
@@ -15,7 +37,6 @@ VIA     4460 > 446F             16
 VERA    4440 > 445F             32              
 RAND    443F                    1               
 CS      443E                    1               ACTIVE HIGH
-OS      0000 > 443D             17470           
 OS      0000 > 443D             17470           
 
 In Binary
@@ -36,3 +57,21 @@ NAND>  NOR
 NOR >  NAND
 XOR >  XNOR
 XNOR>  XOR
+
+FFF0
+FFF1
+FFF2
+FFF3
+FFF4
+FFF5
+FFF6
+FFF7
+FFF8
+FFF9
+FFFA
+FFFB
+FFFC
+FFFD
+FFFE
+FFFF
+
