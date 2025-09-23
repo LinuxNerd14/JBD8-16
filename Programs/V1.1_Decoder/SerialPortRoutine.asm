@@ -1,4 +1,9 @@
-; same as the other Serialport code but this makes auto text scrolling
+; This program is designed to take whatever input from the serial port and then:
+; 	Writes the infromation to VIA port B
+; 	Echo the same value back out of the Serial Port
+; This starts up the computer and initilizes the UART and the VIA.
+; When the computer is ready a ":" is sent out the serial port
+;
 
 ; ADDRESS CONSTANTS
 ROMOFFSET = $8000
@@ -16,7 +21,7 @@ reset:
   sei
   lda #$ff
   sta VIA_DDRB
-  sta VIA_DDRB	; set all via ports to output to protect VIA
+  sta VIA_DDRA	; set all via ports to output to protect VIA
   
   sta UART_STATUS	; soft reset UART
   lda #%00011111	; 8 bits per word, no parity, ----BAUD == 19200----
@@ -24,7 +29,7 @@ reset:
   lda #%00001011	; turns basically everything off because we have nothing configed
   sta UART_COMMAND
 
-  lda #":"
+  lda #":"		; Sends a ":" out of the serial port in order to let the user know the computer is ready
   sta UART_DATA
   jsr WAIT + ROMOFFSET
   ; RECIEVING DATA
