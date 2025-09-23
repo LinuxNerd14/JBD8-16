@@ -1,0 +1,15 @@
+# Create 0x4000 bytes (16 KB) of 0x00 for the lower half
+dd if=/dev/zero bs=1 count=16384 2>/dev/null > lower.bin
+
+# Concatenate your current ROM binary
+cat lower.bin rom16k.bin > tmp.bin
+
+# Check size
+ls -l tmp.bin
+# Should be 16,384 + 16,000 = 32,384 bytes
+
+# Pad to exactly 32 KB
+dd if=/dev/zero bs=1 count=384 2>/dev/null >> tmp.bin
+
+# Rename final file
+mv tmp.bin rom32k_full.bin
