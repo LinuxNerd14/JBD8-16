@@ -1,3 +1,2 @@
 VASM: vasm6502_oldstyle -Fbin -dotdir -wdc02 <FILE>
 MINIPRO: minipro -p 28C256 -uP -w <FILE>
-Take bin and convert it to something that wozmon can do:
