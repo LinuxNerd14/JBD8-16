@@ -1,4 +1,4 @@
-# Programing Refrence Guide for the JBD8-16 Computer
+# Programming Reference Guide for the JBD8-16 Computer
 
 ## Table of Contents:
 
@@ -6,9 +6,7 @@
 
 2. System Overview
 
-3. Programing Model
-
-4. How to write and run programs
+3. Programming
 
 ## 1: Introduction
 
@@ -28,28 +26,27 @@
 
 - **Special features**: Memory banking, random number generator, interrupt handling, etc.
 
-## 3: Programing Model
+## 3: Programming
 
-- **Registers**: List CPU registers, their purpose, and usage.
+#### Overview
 
-- **Instruction set**: If standard (like 6502), link to an existing reference; if custom/modified, document only your additions.
+This computer can be programmed in straight up in 65C02 assembly or C using cc65. The opcodes for assembly can be found in the documentation for the CPU [here](https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf) or you can [also go here]([6502.org Tutorials: 65C02 Opcodes](http://www.6502.org/tutorials/65c02opcodes.html)) for a more human-readable explanation and description of 65C02 assembly. Programming in C is not implemented yet but will be soon. The "programs" directory is organized by memory decoder version since differences in it fundamentally change the programming of the computer. As of now the latest is V1.1 but use whatever is appropriate for your hardware.
 
-- **Interrupts/Resets**: Document how the reset vector works, how interrupts are triggered, and where the programmer should put their code.
+### Making Programs
 
-- **Stack and calling conventions**: If you want to define how subroutines should pass arguments/return values, write that down.
+##### 65C02 Assembly
 
-## 4: How to write and run programs
+Writing code is a three-step process. In order: writing the program; compiling the program; padding the program. After these steps are completed, you should hopefully have a valid binary file that you can write to either the EPROM or a micro SD card. 
+The compiler of choice is [ca65](https://cc65.github.io/doc/ca65.html) and its sibling ld65. ca65 compiles the program and ld65 links it and thus produces a 
 
-- **Assembler/Compiler**: What toolchain should the programmer use (e.g., ca65, custom assembler)?
+#### C
 
-- **Workflow**: How to write code, assemble it, and load it onto your machine (ROM flashing, serial upload, etc.).
+    Not implemented yet.
 
-- **Hello World**: A minimal working program that prints something, blinks an LED, or shows output on your system.
+### Installing Programs
 
+#### Writing to the EPROM
 
+##### Writing to the Micro SD Card
 
-
-
-
-
-
+    Not implemented yet.
