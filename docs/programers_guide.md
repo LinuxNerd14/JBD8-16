@@ -27,6 +27,7 @@
 - **Special features**: Memory banking, random number generator, interrupt handling, etc.
 
 ## 3: Programming
+minipro -p 28c256 -up -w FILE_NAME
 
 #### Overview
 

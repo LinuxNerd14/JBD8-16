@@ -28,15 +28,17 @@ SERIAL PORT:
 
 TO FIX THE HARDWARE BUG. Wait a certain time based on cpu clock speed.
 This equation sets the value needed for the below code to set the perfect delay. If in doubt, just max it out.
-X = ((1/[BAUD RATE]) * ([CPU clok in Hz]) * 10)/5.208
-
------Snip-----
+~~~
+X = ((1/[BAUD RATE]) * ([CPU clock in Hz]) * 10)/5.208
+~~~
+~~~
 tx_delay:
  ldx #$ff   ; deleay determined by baud rate and cpu clok equation is below to set proper number
 tx_delay_1:; ((1/[BAUD RATE]) * ([CPU clok in Hz]) * 10)/5.208 = value to load into X; be sure to round up to the nearest whole number
  dex
  bne tx_delay_1
------Snip-----
+~~~
+
     
 
 

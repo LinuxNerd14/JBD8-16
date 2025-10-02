@@ -1,7 +1,6 @@
 # The JBD8-16
-
-![Current Design](Schematic.svg)
-    A computer with the skeleton of the BE6502 by the revered [Ben Eater](https://eater.net/) with the ultimate goal of running DOOM and making a decent platform for programing in asembly or C at a very fundemental level.
+![Current Deign](schematic.svg)
+A computer with the skeleton of the BE6502 by the revered [Ben Eater](https://eater.net/) with the ultimate goal of running DOOM and making a decent platform for programing in asembly or C at a very fundemental level.
 
     This computer is currently still deep in hardware development but has a diverse set of planned features like hardware based random numbers and way more RAM than what is reasonable along with an implimentation of the VERA by the [8BitGuy](https://www.the8bitguy.com/).
 
