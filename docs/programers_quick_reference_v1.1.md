@@ -31,6 +31,7 @@ This equation sets the value needed for the below code to set the perfect delay.
 ~~~
 X = ((1/[BAUD RATE]) * ([CPU clock in Hz]) * 10)/5.208
 ~~~
+This is just a sample piece of code. You can try to implient it if you want but I would recommend making your own for your situation.
 ~~~
 tx_delay:
  ldx #$ff   ; deleay determined by baud rate and cpu clok equation is below to set proper number
@@ -42,16 +43,16 @@ tx_delay_1:; ((1/[BAUD RATE]) * ([CPU clok in Hz]) * 10)/5.208 = value to load i
     
 
 
-Fixed table in hex, inclusive   sector size
-ROM     C180 > FFFF             16000 
-SCM     4480 > C17F             32000 
-MISC    4474 > 447F             12
-UART    4470 > 4473             4
-VIA     4460 > 446F             16
-VERA    4440 > 445F             32
-RAND    443F                    1
-CS      443E                    1(ACTIVE HIGH in hardware)
-OS      0000 > 443D             17470
+Fixed table in hex, inclusive   sector size decimal		sector size hex
+ROM     C180 > FFFF             16000				3E80 
+SCM     4480 > C17F             32000				7D00
+MISC    4474 > 447F             12				C
+UART    4470 > 4473             4				4
+VIA     4460 > 446F             16				10
+VERA    4440 > 445F             32				20
+RAND    443F                    1				1
+CS      443E                    1(ACTIVE HIGH in hardware)	1
+OS      0000 > 443D             17470				443E
 
 In Binary , inclusive(Only useful for hardware development)
 ROM     1100-0001-1000-0000  >  1111-1111-1111-1111
