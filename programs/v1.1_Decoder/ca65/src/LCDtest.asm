@@ -75,6 +75,7 @@ reset:	; Run on reset
   jsr LCD_SEND_CHAR
 
   sta $4470
+  jmp $C180
 
   ; LCD DATA SEND routine, call after sending data to PORTB
 LCD_SEND_CONFIG:
